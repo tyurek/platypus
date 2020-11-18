@@ -190,8 +190,8 @@ void rdmsr_on_cpu(uint32_t reg, int cpu)
 int main() {
 	FILE *fp;
 	char str[20];
-	fp = popen("./rdmsr -u 1593", "r");
-	for(int i = 1; i < 20000000L; i++){
+	//fp = popen("./rdmsr -u 1593", "r");
+	for(int i = 1; i < 30000000L; i++){
 		//fp = popen("./rdmsr -u 1593", "r");
 		//fgets(str, 12, fp);
 		//puts(str);

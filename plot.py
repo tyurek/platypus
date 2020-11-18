@@ -1,8 +1,13 @@
 import matplotlib.pyplot as plt
-strlist = ['1x1', '1x0', '1xn1', '0x1', '0x0', '0xn1', 'n1x1', 'n1x0', 'n1xn1', '654321x123456']
-scale=20
+strlist = ['base', '1x1', '1x0', '1xn1', '0x1', '0x0', '0xn1', 'n1x1', 'n1x0', 'n1xn1', '654321x123456']
+scale=200
 cutoff=30
 windowsize=100
+def main():
+    plotlines(scale)
+    plt.xlabel("sample number")
+    plt.legend()
+    plt.show()
 
 def smoothe(arr, windowsize):
 	a,b = 0, windowsize
@@ -14,7 +19,17 @@ def smoothe(arr, windowsize):
 		a+=1
 		b+=1
 	return out
-	
+
+def plotlines(scale):
+    for name in strlist:
+        f = open(name + ".txt", 'r')
+        tmp = [int(line, 16) for line in f]
+        arr = [tmp[i] for i in range(len(tmp)) if i%scale == 0]
+        arrnorm = [item -arr[0] for item in arr]
+        plt.plot(arrnorm, label=name)
+        plt.ylabel("Normalized MSR_PP0_ENERGY_STATUS")
+
+'''
 for name in strlist:
 	f = open(name + ".txt", 'r')
 	arr = [int(line, 16) for line in f]
@@ -25,7 +40,7 @@ for name in strlist:
 	arrderivfiltsmooth = smoothe(arrderivfilt,windowsize)
 	#plt.plot(arrnorm, label=name)
 	plt.plot(arrderivfiltsmooth, label=name)
-'''
+
 fbase = open('base.txt', 'r')
 f1x1 = open('1x1.txt', 'r')
 f1x0 = open('1x0.txt', 'r')
@@ -43,7 +58,4 @@ m1x0norm = [item -m1x0[0] for item in m1x0]
 plt.plot(m1x1norm)
 plt.plot(m1x0norm)
 '''
-plt.ylabel("dNormalized MSR_PP0_ENERGY_STATUS/dt")
-plt.xlabel("sample number")
-plt.legend()
-plt.show()
+main()

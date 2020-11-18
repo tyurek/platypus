@@ -1,4 +1,5 @@
 #!/bin/bash
+./kernelmonslow > base.txt
 ./imulbins/imul1x1&
 ./kernelmonslow > 1x1.txt
 killall imul1x1
