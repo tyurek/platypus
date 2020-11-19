@@ -1,10 +1,11 @@
 import matplotlib.pyplot as plt
 strlist = ['base', '1x1', '1x0', '1xn1', '0x1', '0x0', '0xn1', 'n1x1', 'n1x0', 'n1xn1', '654321x123456']
-scale=200
+scale=1
 cutoff=30
 windowsize=100
 def main():
     plotlines(scale)
+    #plotderiv(scale)
     plt.xlabel("sample number")
     plt.legend()
     plt.show()
@@ -20,6 +21,15 @@ def smoothe(arr, windowsize):
 		b+=1
 	return out
 
+def smoothemed(arr, windowsize):
+        out = []
+        window = arr[:windowsize]
+        endwidth = windowsize //20
+        for i in range(len(arr)-windowsize):
+            avg = sum(arr[i+endwidth:i+windowsize-endwidth])/(windowsize-2*endwidth)
+            out.append(avg)
+        return out
+
 def plotlines(scale):
     for name in strlist:
         f = open(name + ".txt", 'r')
@@ -28,6 +38,18 @@ def plotlines(scale):
         arrnorm = [item -arr[0] for item in arr]
         plt.plot(arrnorm, label=name)
         plt.ylabel("Normalized MSR_PP0_ENERGY_STATUS")
+
+def plotderiv(scale):
+    for name in strlist:
+        f = open(name + ".txt", 'r')
+        arr = [int(line, 16) for line in f]
+        arrnorm = [item -arr[0] for item in arr]
+        arrnormdedup = [arrnorm[i] for i in range(1,len(arrnorm)//scale) if arrnorm[i] != arrnorm[i-1]]
+        arrderiv = [arrnormdedup[i] - arrnormdedup[i-1] for i in range(1,len(arrnormdedup))]
+        arrderivfilt = [arrderiv[i] for i in range(len(arrderiv)) if arrderiv[i] < cutoff]
+        arrderivfiltsmooth = smoothe(arrderivfilt,windowsize)
+        plt.plot(arrderivfiltsmooth, label=name)
+        plt.ylabel("dNormalized MSR_PP0_ENERGY_STATUS/dt")
 
 '''
 for name in strlist:
