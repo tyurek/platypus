@@ -1,4 +1,5 @@
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [7ffffffffffeb, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t2: [1, 0, 0, 0, 0]
 t3: [7ffffffffffee, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
@@ -18,6 +19,7 @@ t16: [1db3fd, 8000000000000, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7ffffffffffe9, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 -----------------------------------------------------
 choice: 0
+t0: [80000001db3ea, fffffffffffff, ffffffffffffe, ffffffffffffe, ffffffffffffe]
 t1: [7ffffffe24bdd, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t2: [fffffffffffda, ffffffffffffe, ffffffffffffe, ffffffffffffe, ffffffffffffe]
 t3: [7fffffffffff5, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
@@ -37,6 +39,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7236d6e5fbfed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 -----------------------------------------------------
 choice: 0
+t0: [db9fecd00ffed, 800017c187c6a, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5b9fecd00ffed, 17c187c6b, 8000000000000, 7ffffffffffff, 7ffffffffffff]
 t2: [7ffffffffffda, fffffffffffff, ffffffffffffe, ffffffffffffe, ffffffffffffe]
 t3: [1b92523407fed, 8000000000000, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
@@ -56,6 +59,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7ffffffffc1ce, 5bd6444c7f7ff, 7a41da9ea1a15, 77926d13c13d6, b2d514988d89]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [7c51, 4853776701000, b7c4ac2bcbd4, 10db25d87d852, 69a55d6cee4ec]
 t2: [a4e20c7afc104, c7b9f97d6f135, d75aed1cc3cf4, d539f8bd97d64, 9f0daf80d5897]
 t3: [24e20c7afc117, 47b9f97d6f136, 575aed1cc3cf5, 5539f8bd97d65, 1f0daf80d5898]
@@ -75,6 +79,7 @@ t16: [77e24f0441af3, 15017dd38c8b7, 5bd1ce6e2e540, fdd87516454, 6951b049ac4d9]
 t17: [5f86f9b465290, 1a5d3c4346e32, 3c142d7da0e3d, b49e698a1bb6, eccd7ac605b4]
 -----------------------------------------------------
 choice: 0
+t0: [f7e24f0441ae0, 95017dd38c8b6, dbd1ce6e2e53f, 80fdd87516453, e951b049ac4d8]
 t1: [81db0fbbe4fa, 6afe822c73748, 242e3191d1abf, 7f02278ae9bab, 16ae4fb653b26]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [40f20c9735acd, 4b4587797239a, 7d7a504be385, 696c32cebc893, 626650a73f497]
@@ -94,6 +99,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [4ce810472771c, 2792405cec793, 3d5cedc9b87e8, 684f5074cf586, 2fabd91f08a12]
 -----------------------------------------------------
 choice: 0
+t0: [94a71aff71a31, c17061b8da838, d31aa2e6ca481, 8bcf218dc3b3e, d6957735a9030]
 t1: [14a71aff71a44, 417061b8da839, 531aa2e6ca482, bcf218dc3b3f, 56957735a9031]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [662fdf71b11b5, 30db7f46270d8, 546246c8f02f, 2f615f16614f3, 20a84dc1eebda]
@@ -113,6 +119,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [191824a0ba4dd, 6a0af82ea1250, 4f01a363369c2, 7c5172c507651, 572f626c80efd]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4dcfb6be8b620, 2bea0fa2bdb5f, 61fcb93992c7a, 75d1a75f135c, 51a13b26fe204]
 t2: [abff8927f1150, c335024bdc975, 8aacfe3fa54f0, d804afe6c68d7, bb8158e329bf0]
 t3: [2bff8927f1163, 4335024bdc976, aacfe3fa54f1, 5804afe6c68d8, 3b8158e329bf1]
@@ -132,6 +139,7 @@ t16: [f5bc70bc98b, 1138a5d286ac6, 415e3eb129be6, 235ca6a8464d2, 22bc1e4e85b29]
 t17: [5fef7c5fb0f77, 5f817fc840890, 3f2eba20f3c7f, 685bf3d9a3dc2, 142152bd78403]
 -----------------------------------------------------
 choice: 0
+t0: [80f5bc70bc978, 9138a5d286ac5, c15e3eb129be5, a35ca6a8464d1, a2bc1e4e85b28]
 t1: [7f0a438f43662, 6ec75a2d79539, 3ea1c14ed6419, 5ca35957b9b2d, 5d43e1b17a4d6]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [402107409e0ff, 40fd006f7eede, 1a28bbe18700, 2f48184cb847b, 57bd5a850f7f8]
@@ -151,6 +159,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [1e38aea1bf268, 19e59e2638c09, 419289923562d, 7336dd72ec4de, 149020bceefe3]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [438ea2bc81b1d, 4c34c3b38e7ed, 7cdaecdb953a5, 1992451a27642, 56dfbe8622038]
 t2: [eea20e639bdaa, e260d4329d639, c2aa30dd70f9b, 9cfdc43f99816, f0e179cda9f8e]
 t3: [6ea20e639bdbd, 6260d4329d63a, 42aa30dd70f9c, 1cfdc43f99817, 70e179cda9f8f]
@@ -170,6 +179,7 @@ t16: [46264177001ab, 33f60496980a4, 2d2e205d0fbf4, 1fb1fcee863ac, 589293ad5b9c8]
 t17: [4e7737dc12f3c, 243d2e533ca8e, 153b67ed34cd0, 52e5afa7ae891, 145991a581a14]
 -----------------------------------------------------
 choice: 0
+t0: [c626417700198, b3f60496980a3, ad2e205d0fbf3, 9fb1fcee863ab, d89293ad5b9c7]
 t1: [39d9be88ffe42, 4c09fb6967f5b, 52d1dfa2f040b, 604e031179c53, 276d6c52a4637]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [63119047da175, 3785a35986ae2, 558930259665f, 5a34a0b0a2edd, 574cdcb4fcbd6]
@@ -189,6 +199,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [1f554203fb9a6, 785579d540e63, 50d9375c244a2, 54546f88a7288, 510178dd83c13]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [41557bf808c8e, f550c557e339, 5e4d9147b76ba, 575720eeb1aee, 5dfd0e44f87d8]
 t2: [a8bc0775f8e86, fc1e921c99c06, a431c8fb10c85, 9c68b1e0fabf8, 817c9a6badc8b]
 t3: [28bc0775f8e99, 7c1e921c99c07, 2431c8fb10c86, 1c68b1e0fabf9, 17c9a6badc8c]
@@ -208,6 +219,7 @@ t16: [5509f61015c9d, 2350716e49f91, 725d9cae036ec, 6f42d85735f9, 587e18369a339]
 t17: [20b9902672234, 13bf990875b39, 592007444b16b, 134be049d913f, 5aa35ff588ebf]
 -----------------------------------------------------
 choice: 0
+t0: [d509f61015c8a, a350716e49f90, f25d9cae036eb, 86f42d85735f8, d87e18369a338]
 t1: [2af609efea350, 5caf8e91b606e, da26351fc913, 790bd27a8ca06, 2781e7c965cc6]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [3e8cdfb31bb72, 5880cdef1498d, 4dbff17769d29, 59683f6c4dd80, 4ab94014ee281]
@@ -227,6 +239,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [55fb908da3eda, c85d8a2db362, 548f5e28fae5e, 70f4398c1f6fe, 1aec1fb14338d]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5408dee4b8239, 66f44eba4993a, 56e143ae0a343, 1e178ce7c1202, 4a27c09d798e4]
 t2: [d06f32fb9f42e, dbbc36c2323a1, c407406ac5ed7, 853d75a48e518, b4a2b234a55b5]
 t3: [506f32fb9f441, 5bbc36c2323a2, 4407406ac5ed8, 53d75a48e519, 34a2b234a55b6]
@@ -246,6 +259,7 @@ t16: [581b13060d2ea, 78399fab6507, 5286cf7672bdf, 1d98e0c9f0a1b, 2ef44d417770c]
 t17: [e8e421cd1f1d, 3fec7b22cc506, 21b703ce10c5b, 7fe9dc4ec8389, cedbf5368ed2]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [62e37bc65c1b3, 2709ba675f3, 3c91f863de749, 2c47626f8ed, 662481592e25a]
 t2: [d81b13060d2d7, 878399fab6506, d286cf7672bde, 9d98e0c9f0a1a, aef44d417770b]
 t3: [27e4ecf9f2d03, 787c660549af8, 2d7930898d420, 62671f360f5e4, 510bb2be888f3]
@@ -265,6 +279,7 @@ t16: [35caf4011c078, 5cee8d6218eb1, 1d66cc9c87b2a, 5fc6e23fd1b9e, d2639d0d6090]
 t17: [bcfe1e6b8ed7, 54af94ac41822, 34383e13bc639, 44b045dbbcf0b, 56419b84bc50e]
 -----------------------------------------------------
 choice: 0
+t0: [b5caf4011c065, dcee8d6218eb0, 9d66cc9c87b29, dfc6e23fd1b9d, 8d2639d0d608f]
 t1: [4a350bfee3f75, 2311729de714e, 62993363784d5, 20391dc02e461, 72d9c62f29f6f]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [68603c328e22c, 56a0d6a77cfbb, 178f83d88738c, 769f7448861e9, 537cc8f6875e2]
@@ -284,6 +299,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [1606de00ca4c5, 4d8c1269199fa, 4cb9b7fa0a718, 160b2bcaaff2d, 9e24a5f21c3e]
 -----------------------------------------------------
 choice: 0
+t0: [f35a7dda6a0ff, b0f61d05e1da5, f18858d95e594, 9ca9fcbd49281, c90b2c92f89d0]
 t1: [735a7dda6a112, 30f61d05e1da6, 718858d95e595, 1ca9fcbd49282, 490b2c92f89d1]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [53f243fe6b663, 64e7db2dccc0b, 668c900beb1ce, 53e9a86aa01a4, 6c3b6b41bc783]
@@ -303,6 +319,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [aed18519f51a, 50b45a0cdd930, 64e79b8342476, ece06ce2c0cb, 2fca1ddfb28de]
 -----------------------------------------------------
 choice: 0
+t0: [b899d0c9c3b43, cdbadf6bf61ba, c0bac24d779a6, 85932473a196a, aa5d6044e1453]
 t1: [3899d0c9c3b56, 4dbadf6bf61bb, 40bac24d779a7, 5932473a196b, 2a5d6044e1454]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [6a25cf5cc15b9, 5e974be644d9f, 3630c8f97b712, 6263f263a7e68, 206bc4409ae43]
@@ -322,6 +339,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7f3771332aa82, 5581503dc290b, 1bf4ec7d39a5d, 157a49e46f800, 1e37941a639d6]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1911d99aaae9, 54fd5f847ade8, 481627058cb44, 550b6c3720fff, 4390d7cb38c53]
 t2: [8efaeb02cbf65, 9f7976669c165, 861779a7f91e9, c86578054404a, b461afeb92324]
 t3: [efaeb02cbf78, 1f7976669c166, 61779a7f91ea, 486578054404b, 3461afeb92325]
@@ -341,6 +359,7 @@ t16: [76a311768794d, 7a2a8c26c8a2, 1513aaa18186d, af3990515511, 79a7243abc432]
 t17: [292a81c1eec99, 32b072e1afd69, 4796118fc42c8, 4d6b52d8d5068, 44b1fe0be2842]
 -----------------------------------------------------
 choice: 0
+t0: [f6a311768793a, 87a2a8c26c8a1, 9513aaa18186c, 8af3990515510, f9a7243abc431]
 t1: [95cee89786a0, 785d573d9375d, 6aec555e7e792, 750c66faeaaee, 658dbc543bcd]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2daafc7c226a8, 1a9f1a3ca052d, 70d3dce077a6f, 65295a4e55f2e, 769c03e83af7a]
@@ -360,6 +379,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [4452432dd170b, 6a4a6e1691c13, 3642d638ee75c, 29f0d4e821b3f, 6016fb1e7a859]
 -----------------------------------------------------
 choice: 0
+t0: [de04fc6c914be, d88248e2f9234, a9f426d84920d, aa3e49eac9d5f, f797e3e56834b]
 t1: [5e04fc6c914d1, 588248e2f9235, 29f426d84920e, 2a3e49eac9d60, 7797e3e56834c]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [775b79a45d1c4, 2b6b23d2dc7d8, 137a538e23146, 2c1e562fbc981, 3fd209c30af4d]
@@ -379,6 +399,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [3b7e6e2803415, 4e2d41be6f5d5, 76d2b74a35dd0, 39fad36282762, 448df044205c0]
 -----------------------------------------------------
 choice: 0
+t0: [ade6a0d58dccf, ae4c25cec0b70, de71231feef4a, ab236236beadc, 87ac2286bd264]
 t1: [2de6a0d58dce2, 2e4c25cec0b71, 5e71231feef4b, 2b236236beadd, 7ac2286bd265]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [90323aff97b0, 63a57c8321455, 125a916b9445e, c0a593afb13a, 76e41f77bf47f]
@@ -398,6 +419,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [351097ab9035d, 37abd271fd372, 5403a7121c3e0, 94986263b5aa, 29a00a0045cd]
 -----------------------------------------------------
 choice: 0
+t0: [eef263fc590cc, fd23ae5fc6112, fda3448fbaaab, eec6aa28f45a2, b68e371f0571e]
 t1: [6ef263fc590df, 7d23ae5fc6113, 7da3448fbaaac, 6ec6aa28f45a3, 368e371f0571f]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [15ded0a8df933, 10a85b1c0591b, 57f8b1dbc783f, 6d6cf3b3894aa, 7acbfebff7465]
@@ -417,6 +439,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [5f7b819d8c146, 161e8916af213, 71a681df40706, 5d25ab784edf6, 28cf9b5ef81c0]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4108fcc4e7d61, 53c2edd2a1bd8, 1cb2fc417f1f3, 45b4a90f62412, 2e60c9420fc7e]
 t2: [b97dc50d7a341, d2461535b8d56, eb7103f434fa1, cb16e3651eb17, 82c10adb6f686]
 t3: [397dc50d7a354, 52461535b8d57, 6b7103f434fa2, 4b16e3651eb18, 2c10adb6f687]
@@ -436,6 +459,7 @@ t16: [43c85a14429ad, 60415fdd7e9d9, 7e2671590e928, 1a4642c3e9a57, 2e89e5b385c70]
 t17: [1d4b05995fd72, 276f8c2a4e08b, 6edea8afb207d, b346f33e7719, 77382d96aff6b]
 -----------------------------------------------------
 choice: 0
+t0: [c3c85a144299a, e0415fdd7e9d8, fe2671590e927, 9a4642c3e9a56, ae89e5b385c6f]
 t1: [3c37a5ebbd640, 1fbea02281626, 1d98ea6f16d7, 65b9bd3c165a8, 51761a4c7a38f]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4569f4cd404f6, 3120e7ab63ee9, 2242aea09bf05, 69972198311cc, 118fa4d2a0129]
@@ -455,6 +479,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [107e85881e338, 25b852b2b7334, 40da933cf3e51, 6486e5611fcd3, 741912b522484]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5f02f4efc396a, 348f5a9a91997, 7e4ad9861835d, 36f2353dc0658, 17cdda95bb6f6]
 t2: [b7f8fde8700e8, cbae19529de78, 93f6f2f150a5f, 85d6649a413cb, c40f645c8c25f]
 t3: [37f8fde8700fb, 4bae19529de79, 13f6f2f150a60, 5d6649a413cc, 440f645c8c260]
@@ -474,6 +499,7 @@ t16: [7ef77f8e238d9, 1128f173e086b, 2f44459584336, a85f6c0ba2e7, 490921ba33002]
 t17: [262082e471ba4, 31689c396a6cc, 6c22b35e4dd04, 1077bd3794306, 1e13de2cc1e34]
 -----------------------------------------------------
 choice: 0
+t0: [fef77f8e238c6, 9128f173e086a, af44459584335, 8a85f6c0ba2e6, c90921ba33001]
 t1: [1088071dc714, 6ed70e8c1f794, 50bbba6a7bcc9, 757a093f45d18, 36f6de45ccffd]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [33befa371c8a5, 1d2ec78d2b267, 27ba9943645f7, 5f108590d79f2, 43d843a67c397]
@@ -493,6 +519,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [79a9eb476e8a9, 6b0cb7d23fd09, 12c267e46c419, 4aa4931dede9c, 4ca69b33dc68c]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [cac297122e88, 29e6905b805ec, 5a7b3037277cc, 6ab6d9c4242c7, 66b2c998472e6]
 t2: [98f4882c93201, bba5a051b36e1, ae335a875e79a, 860b79dfda6ac, d9696e6e79876]
 t3: [18f4882c93214, 3ba5a051b36e2, 2e335a875e79b, 60b79dfda6ad, 59696e6e79877]
@@ -512,6 +539,7 @@ t16: [2edb38535d0e5, 6ebd8262cf5e7, 2b55042d2a8bf, 1aa78644456e7, 2a9348432ab3]
 t17: [7a75d4c9c43e5, 542c21ce84646, 55013c3a56c3a, 5b6f3d0400945, 1c5ccc0c6b971]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [b14566c77823, 57a7bc62f7372, 55fd878b5278a, 492185f7fed74, 474667e728d1c]
 t2: [aedb38535d0d2, eebd8262cf5e6, ab55042d2a8be, 9aa78644456e6, 82a9348432ab2]
 t3: [5124c7aca2f08, 11427d9d30a18, 54aafbd2d5740, 655879bbba918, 7d56cb7bcd54c]
@@ -531,6 +559,7 @@ t16: [35b9b29db9544, 67c1b87708be, 5b92a172997b9, 6b2801a776740, 1b853e29649ec]
 t17: [1b2f6d54e7299, 6d8e8342dedcb, 38eb19f82aa09, 3f6bbb1790319, 27e8ca10837d2]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [49a1255631abb, 24e2f97a42469, e29cc0faabec, 12889d0df9cd, 302e6bdef905b]
 t2: [b5b9b29db9531, 867c1b87708bd, db92a172997b8, eb2801a77673f, 9b853e29649eb]
 t3: [4a464d6246aa9, 7983e4788f741, 246d5e8d66846, 14d7fe58898bf, 647ac1d69b613]
@@ -550,6 +579,7 @@ t16: [750acd4cc8be5, 2a95a816cf674, 4b173ab7b3308, 61209d03df647, 6a6efc07d0112]
 t17: [f0d52137af5a, 7c112fbce9a06, a07737f8897d, 5f79cf7c38057, 642a6865d5485]
 -----------------------------------------------------
 choice: 0
+t0: [f50acd4cc8bd2, aa95a816cf673, cb173ab7b3307, e1209d03df646, ea6efc07d0111]
 t1: [af532b337408, 556a57e93098b, 34e8c5484ccf7, 1edf62fc209b8, 159103f82feed]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [61e55bd90a126, 7dda0862cbf3, 6bf11900eed04, 410c61078ff51, 37ab2f34556f4]
@@ -569,6 +599,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [453aff90187a6, 7a2fa74f288e1, 2c35a45e54137, 23312e22de738, 37e76e3605da5]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [758a00dfcf0a1, ba0b161aee3c, 2794b74357d90, 399da3ba4318f, 10312393f44b5]
 t2: [a84ced537a2b7, cbeaa989d8791, cbc7eaefcb174, ae6d6c71b90d2, d6eb1da08fbc6]
 t3: [284ced537a2ca, 4beaa989d8792, 4bc7eaefcb175, 2e6d6c71b90d3, 56eb1da08fbc7]
@@ -588,6 +619,7 @@ t16: [2b6fc4c23a07d, c01f64316084, 6030fd6fbbe3f, 72436a9fbf671, 2c4c75439d0cd]
 t17: [15af8a2997159, 66981d8627b21, 334417d1661aa, 38cf3fce390f4, f4451f44983e]
 -----------------------------------------------------
 choice: 0
+t0: [ab6fc4c23a06a, 8c01f64316083, e030fd6fbbe3e, f2436a9fbf670, ac4c75439d0cc]
 t1: [54903b3dc5f70, 73fe09bce9f7b, 1fcf0290441c0, dbc95604098e, 53b38abc62f32]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [54a0ebacd1d3b, 32cfc4f3b09bd, 1977d05d33caa, e6180638de17, 61775c176cf83]
@@ -607,6 +639,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [d45c24f111d3, 3aff43ed759d3, 54a34c0d65912, 4e8da4c64ee15, 229af885957b9]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [65747b61ddc47, a01782514c59, 56b967e534ddb, 62e4b673623d4, 3aca0ef4d508c]
 t2: [b72c80ef50be1, 9d07566a1a73f, ed24c53545364, 997054b502e6c, e0946e9c56b1d]
 t3: [372c80ef50bf4, 1d07566a1a740, 6d24c53545365, 197054b502e6d, 60946e9c56b1e]
@@ -626,6 +659,7 @@ t16: [13f6d2933f766, 68cc9f4eddf, 48445df4eb025, 4a2f3870d6724, 2aee4956037c6]
 t17: [2544c36c21b36, 106fbeceb5ef0, 1760bf49a772b, 66176ea84fcaf, 7d9c10c23dfbf]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [35767927bc96e, 5f2082629421f, 513e816cb11a9, 33d122af606a1, 4c7de7b84080]
 t2: [93f6d2933f753, 8068cc9f4edde, c8445df4eb024, ca2f3870d6723, aaee4956037c5]
 t3: [6c092d6cc0887, 7f973360b1220, 37bba20b14fda, 35d0c78f298db, 5511b6a9fc839]
@@ -645,6 +679,7 @@ t16: [3e4c645bad8e1, 4bbf74e36c6b5, 590817a309bfc, 799937c839e1b, 5df40b45ab535]
 t17: [52d0462f59ae1, 25cc815d59f5b, 3edc17d04db23, 1303ebbc0cef2, 54fbaba27c519]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5a5f73a14ca18, 3466fd454c148, 247d05f649b9, 59f82887e621b, 5608a8bb075cd]
 t2: [be4c645bad8ce, cbbf74e36c6b4, d90817a309bfb, f99937c839e1a, ddf40b45ab534]
 t3: [41b39ba45270c, 34408b1c9394a, 26f7e85cf6403, 666c837c61e4, 220bf4ba54aca]
@@ -664,6 +699,7 @@ t16: [3ad02e5593ce8, 2afba30c3eb32, 694bf5405ff7, 31ac3c22466a4, 2a12193981d50]
 t17: [d7b9900e7565, 1588637b1e102, 46a4fa24af5e0, 13600ca72be9e, 7c1473164b37d]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [6508cdfe31510, 54ef3909c3dfb, 72b60bb6a143f, 593fe6b1a82c2, 7d719d369905]
 t2: [bad02e5593cd5, aafba30c3eb31, 8694bf5405ff6, b1ac3c22466a3, aa12193981d4f]
 t3: [452fd1aa6c305, 55045cf3c14cd, 796b40abfa008, 4e53c3ddb995b, 55ede6c67e2af]
@@ -683,6 +719,7 @@ t16: [daec67474975, 58168045fa15e, 293c5a50385bd, 1e807f1e3bc56, 3955a8891902f]
 t17: [694a47ac575d0, f170872b6974, 5cd5dc35cfcd3, 7238cf0735e79, 55dbcf70b5263]
 -----------------------------------------------------
 choice: 0
+t0: [8daec67474962, d8168045fa15d, a93c5a50385bc, 9e807f1e3bc55, b955a8891902e]
 t1: [7251398b8b678, 27e97fba05ea1, 56c3a5afc7a42, 617f80e1c43a9, 46aa5776e6fd0]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2d6b70a75143a, 61d1ef1a92d16, 4654479460659, 1b8e61f19430c, 5448611e95b38]
@@ -702,6 +739,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7cf84afd83735, 77693cf5dd13a, 47dee8c712ed8, 124a5795a45c5, ebbf2c658768]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [60f6a04f9183, 112d861445d8a, 70422e71da24e, 5b6b50d4b7474, 62881a734f12f]
 t2: [e1cb2f22579ba, abc49b97c94b7, 90070b2dc700c, b78ef7c69f445, b4f9f0afb896a]
 t3: [61cb2f22579cd, 2bc49b97c94b8, 10070b2dc700d, 378ef7c69f446, 34f9f0afb896b]
@@ -721,6 +759,7 @@ t16: [c1e62e466263, 6bbcc4011dac5, 38702a21ce129, 42f83b58d749e, 3f28eb66d3696]
 t17: [384de05f13bd, 1e6f107d75b6f, 5f44268b45a98, fb9a2e41dc99, 5e71b2fbe98af]
 -----------------------------------------------------
 choice: 0
+t0: [8c1e62e466250, ebbcc4011dac4, b8702a21ce128, c2f83b58d749d, bf28eb66d3695]
 t1: [73e19d1b99d8a, 14433bfee253a, 478fd5de31ed6, 3d07c4a728b61, 40d714992c969]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [78f643f41d860, 4321df0514921, 4177b2e974acf, 608cba37c46cc, 431c9a082cea1]
@@ -740,6 +779,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6ca6b62d8902d, 50cbc85175a38, 74ed7bd2c7fbb, 37d9298c75543, 2c462969c9bb6]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [26b293a4edf93, 5e686f5d14b8e, 1625085a70088, 104dace715578, 2773ad2c6c893]
 t2: [dc2714c8d9a13, aa572b1d8c85a, 86c95056874ec, d3d68d2d23279, d4e7470b77da0]
 t3: [5c2714c8d9a26, 2a572b1d8c85b, 6c95056874ed, 53d68d2d2327a, 54e7470b77da1]
@@ -759,6 +799,7 @@ t16: [3943490d21685, 5bf18223d2113, 5350429240fe3, 48d7082149373, 1152f14ecec56]
 t17: [e1da86e78157, 277b2aa6b9229, 5be730c3e1cf5, 685bc10ea9899, 4d02a32a736f2]
 -----------------------------------------------------
 choice: 0
+t0: [b943490d21672, dbf18223d2112, d350429240fe2, c8d7082149372, 9152f14ecec55]
 t1: [46bcb6f2de968, 240e7ddc2deec, 2cafbd6dbf01c, 3728f7deb6c8c, 6ead0eb1313a9]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [63c4af230fd2c, 3109aab28dbad, 48319e783c615, 2f487de2acecc, 65fab9ab1921a]
@@ -778,6 +819,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [67c9ced679073, 724c7f81eccac, 2820c83e29931, 34ee966e752cf, 76996870e4caa]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [306c62530def4, 1b6700fc266a6, 2fbe6f83acd9c, 1622d32315a61, 12cd2f1e366ab]
 t2: [922e3c5b1b3b2, 9c7752242c56a, 9dc36a02fa1f2, c8e618f38a6f0, cce795b8d63f2]
 t3: [122e3c5b1b3c5, 1c7752242c56b, 1dc36a02fa1f3, 48e618f38a6f1, 4ce795b8d63f3]
@@ -797,6 +839,7 @@ t16: [cb4325067b9e, 193b580b0469c, 74fadf999a2f1, 4992fe51b72fb, 2c627c11ce7a4]
 t17: [439532b66ce09, 5a66083a01539, 33ea2d92d696e, 53a565e9c1c2c, 23f3b8504f1f1]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [78d59a93263db, 4b33ef8bfd58c, 182ba4da52d22, 58b5342c7c7a7, 38188f5f61c1c]
 t2: [8cb4325067b8b, 993b580b0469b, f4fadf999a2f0, c992fe51b72fa, ac627c11ce7a3]
 t3: [734bcdaf9844f, 66c4a7f4fb963, b05206665d0e, 366d01ae48d04, 539d83ee3185b]
@@ -816,6 +859,7 @@ t16: [2753851576afa, 6f542b88aafb2, 436091516b9f7, 63354d58f6ca, 443bed5e63a5b]
 t17: [60df7f622bc54, 7aba1113e7c5e, 76e5ec0b61950, 63975386cc5d5, 24422f90521fc]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3e41013ba8745, a8bddd830742, 123427e93cd5e, 38d158f267454, 377ba0df5bc06]
 t2: [a753851576ae7, ef542b88aafb1, c36091516b9f6, 863354d58f6c9, c43bed5e63a5a]
 t3: [58ac7aea894f3, 10abd4775504d, 3c9f6eae94608, 79ccab2a70935, 3bc412a19c5a4]
@@ -835,6 +879,7 @@ t16: [359ab8ec6dddf, 2fa7a72e04da9, f056e404e865, 3cd23ea7991c4, 64bacc9d886bb]
 t17: [7c2ebec11a039, 595a18d4fe98f, 494da0beae84, 3704f1cd74b09, 6069bfe15466a]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [7a2827dcbf68, 4d4bce5602ce0, 76d64be82a2f6, 11f61c65169ed, 3f2c803d5732b]
 t2: [b59ab8ec6ddcc, afa7a72e04da8, 8f056e404e864, bcd23ea7991c3, e4bacc9d886ba]
 t3: [4a6547139220e, 505858d1fb256, 70fa91bfb179a, 432dc15866e3b, 1b45336277944]
@@ -854,6 +899,7 @@ t16: [41739ebece031, 168b8c1e7e9d8, 62d2260edefe4, 7395b4fcb85e6, 6530f8e9fcaa7]
 t17: [53e181e24f3fd, 6e3978262000e, 61d29e9de4ee7, 6cc9b0f28e070, 40ffb7e24fea2]
 -----------------------------------------------------
 choice: 0
+t0: [c1739ebece01e, 968b8c1e7e9d7, e2d2260edefe3, f395b4fcb85e5, e530f8e9fcaa6]
 t1: [3e8c614131fbc, 697473e181627, 1d2dd9f12101b, c6a4b0347a19, 1acf071603558]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [583cfc3b617e0, 238d0fb3bffe2, 3c5ac2c436230, 266c9e1ae3f1e, 7e00903b602ba]
@@ -873,6 +919,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [4817ce620bba, b40cacf1595d, b550237d1c48, 373a6eda20002, 4d1ed4d1d160e]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [76fd0633be866, 697e6a61d4d45, 6955fb905c76f, 118b224bbfffb, 65c2565c5d3e3]
 t2: [d330bd9b370b2, c888220249179, d5b6e7c2b6e74, e3a0eebdf2114, b2ee43f6e1bbe]
 t3: [5330bd9b370c5, 488822024917a, 55b6e7c2b6e75, 63a0eebdf2115, 32ee43f6e1bbf]
@@ -892,6 +939,7 @@ t16: [4590712d47ade, 5c123b8da7f5e, 4fb932715bdc4, 599a1d37f925e, 7145aab3fd541]
 t17: [382f6c967b1db, 75e00fc17c88b, 3c6c4bb76153e, a9315d453cbf, 41235b68afcb5]
 -----------------------------------------------------
 choice: 0
+t0: [c590712d47acb, dc123b8da7f5d, cfb932715bdc3, d99a1d37f925d, f145aab3fd540]
 t1: [3a6f8ed2b850f, 23edc472580a1, 3046cd8ea423b, 2665e2c806da1, eba554c02abe]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [fa126d309c24, 143fe07d06ee9, 72768913d582, 6ad9d45758681, 7db9492ea0695]
@@ -911,6 +959,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [ed97360375f2, 5fa070c85f706, 332764860547d, 77a91fc86317d, 60bf83218ba63]
 -----------------------------------------------------
 choice: 0
+t0: [f46dbc082a434, aeaeedfdb6cde, e8d8aaa01d1cb, e1c83e148f773, 94efe980c1552]
 t1: [746dbc082a447, 2eaeedfdb6cdf, 68d8aaa01d1cc, 61c83e148f774, 14efe980c1553]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [624d193f913f6, 40bf1e6f411f3, 19b136f3f5704, 10adc06f39d05, 3e80f9bce8b38]
@@ -930,6 +979,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [15cbb2c7ccbc4, 5d87cd1ffb8f8, 26b57359fc58a, 36bb5db9e06ef, 1d33a88b4afd]
 -----------------------------------------------------
 choice: 0
+t0: [92c171beb6c9c, b6fc2306b54e5, ebf8361e2dcd0, d0c8f4657baa6, af750bfc17801]
 t1: [12c171beb6caf, 36fc2306b54e6, 6bf8361e2dcd1, 50c8f4657baa7, 2f750bfc17802]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [54689a7066865, 44f065c008e0f, 3295194c074ea, 1289448c3f221, 7c598aee96a05]
@@ -949,6 +999,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [3e01cf048d814, 2e3d19342d028, 511dabe653800, 7cd389518b803, 7f9862b398c5c]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3fc61f6e4fb2, 2385cd97a5faf, 5dc4a83358fff, 658ed5ce8ff8, cf3a98ce746]
 t2: [afeca78d63bcf, 8faadc893d92d, e73b91569b7c7, 87ed017c7a0c1, 85a2c5cc522d8]
 t3: [2feca78d63be2, faadc893d92e, 673b91569b7c8, 7ed017c7a0c2, 5a2c5cc522d9]
@@ -968,6 +1019,7 @@ t16: [49bc23573a816, 494040371954d, 2684d4bc9f222, 46874ab843b35, 11fc79c96334e]
 t17: [1f05cba40021e, 2d81ae80c6b9e, 3eba6c30b5584, 5867a77ab768f, 20ea42d4cc5f2]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [41f468b7ffbb1, 24fca2fe728c3, 28b279e954f7, 4f30b10a912e1, 3e2b7a566741a]
 t2: [c9bc23573a803, c94040371954c, a684d4bc9f221, c6874ab843b34, 91fc79c96334d]
 t3: [3643dca8c57d7, 36bfbfc8e6ab2, 597b2b4360ddd, 3978b547bc4ca, 6e0386369ccb1]
@@ -987,6 +1039,7 @@ t16: [15f4287627a4, 6ff8ea98478a3, 57337174d515a, 1dba132601b34, 63b32d8b3fe14]
 t17: [25c4066075397, 642b30c0b07cf, 3846da8717537, 60412cba68909, 66634829b758d]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3477f33f158ac, 37a99e7e9f061, f724af1d1590, 3f7da68b2eded, 33396fac914e4]
 t2: [815f428762791, eff8ea98478a2, d7337174d5159, 9dba132601b33, e3b32d8b3fe13]
 t3: [7ea0bd789d849, 10071567b875c, 28cc8e8b2aea5, 6245ecd9fe4cb, 1c4cd274c01eb]
@@ -1006,6 +1059,7 @@ t16: [2751b96a018a1, 3c8d1e77c1997, 2746ee8ff5100, 58fca132fb30, 6a928b5469323]
 t17: [110d84969b53d, 194047912737, 2280672b6576c, 2d551cf006318, 22adf559b7896]
 -----------------------------------------------------
 choice: 0
+t0: [a751b96a0188e, bc8d1e77c1996, a746ee8ff50ff, 858fca132fb2f, ea928b5469322]
 t1: [58ae4695fe74c, 4372e1883e668, 58b911700aeff, 7a7035ecd04cf, 156d74ab96cdc]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [5de4f6d2c9573, 7cd7f70ddb191, 3aff31a935127, 2555c61ff39cf, 3aa4154c90ed3]
@@ -1025,6 +1079,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [1bfc45297a52, 4bc574fb44509, 2059cee627d02, 258e9667f9fdc, 2783740b7bfe3]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [7c80775ad0b49, 68751609775ed, 3f4c6233b05fa, 34e2d3300c047, 30f917e908039]
 t2: [cde23a02f7fd4, 82014f4a7cd36, 9e1f01b9867d1, 926c116611261, 8af4fa0006bbc]
 t3: [4de23a02f7fe7, 2014f4a7cd37, 1e1f01b9867d2, 126c116611262, af4fa0006bbd]
@@ -1044,6 +1099,7 @@ t16: [27affb918f42b, 25682d16b467a, 5421a9ceeb8d4, 7bc8cf4c3b004, 44b8766843a9d]
 t17: [4d8f9af56a933, 736f9be09561e, 17df50c75b900, 165529c816daa, 617731d9702d4]
 -----------------------------------------------------
 choice: 0
+t0: [a7affb918f418, a5682d16b4679, d421a9ceeb8d3, fbc8cf4c3b003, c4b8766843a9c]
 t1: [5850046e70bc2, 5a97d2e94b985, 2bde56311472b, 43730b3c4ffb, 3b478997bc562]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [64e0ca152ad74, 1920c83ed53c2, 50415e7148dfe, 5355ac6fd24ab, 3d119c4d1fa57]
@@ -1063,6 +1119,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [44b31ee25a76d, 2bd3c6745e9f, 4f00007e12602, 146b4884604bd, 4da65fbd1979f]
 -----------------------------------------------------
 choice: 0
+t0: [8b68b8dd97278, d10ee8b9c41ff, cb107f4501b13, ad7a5b658677d, bfe9032d09ee7]
 t1: [b68b8dd9728b, 510ee8b9c4200, 4b107f4501b14, 2d7a5b658677e, 3fe9032d09ee8]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [7699c23b4b100, 7a858731742c0, 61ffff03db3fb, 57296ef73f684, 64b34085cd0c1]
@@ -1082,6 +1139,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7c54b9d98a335, 2533c563d6e56, 58c31299d62b, 538af0e2bf056, 2a1ca5e41837e]
 -----------------------------------------------------
 choice: 0
+t0: [a642056b40328, d1ccb46fcdeb9, ffee32d731422, a434137d12160, f9fb2dbb06f5b]
 t1: [2642056b4033b, 51ccb46fcdeba, 7fee32d731423, 2434137d12161, 79fb2dbb06f5c]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [7568c4ceb983, 3598753852352, 74e79dacc53a9, 58ea1e3a81f53, 2bc6b437cf902]
@@ -1101,6 +1159,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7d5f6ab631065, 73ea08c8a5d13, 771e016be7205, 6ee7a9c775d48, 6f8fa518015dc]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5412a939df10, 182bee6eb45d8, 11c3fd2831bf4, 2230ac711456e, 20e0b5cffd446]
 t2: [8d28aac065767, 88ced823b1ee3, b8a6eb28e8caa, c82e4a1f057bb, f785c6cb1c145]
 t3: [d28aac06577a, 8ced823b1ee4, 38a6eb28e8cab, 482e4a1f057bc, 7785c6cb1c146]
@@ -1120,6 +1179,7 @@ t16: [b56e6c8342b7, 231d273c0db7c, 32aed9cd1345d, 32ce5ecb457db, 74dda8a835205]
 t17: [65e8d10c9f46c, eca99bac0570, 2924921fb39d0, 1ae48867b2200, 4a8bd71687e37]
 -----------------------------------------------------
 choice: 0
+t0: [8b56e6c8342a4, a31d273c0db7b, b2aed9cd1345c, b2ce5ecb457da, f4dda8a835204]
 t1: [74a91937cbd36, 5ce2d8c3f2483, 4d512632ecba2, 4d31a134ba824, b225757cadfa]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [342e5de6c1702, 626acc8a7f51e, 2db6dbc098c5f, 4a36ef309bbff, 6ae851d2f0391]
@@ -1139,6 +1199,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6ad64f0431eb8, 79362841bdee0, 1cddaac837c33, 2bca6b3b6ca1f, 1f6bf16f103d1]
 -----------------------------------------------------
 choice: 0
+t0: [e69d094fec855, e27a43984c661, fefa8cf8cbc0d, dc58b51bfbf40, c01b74d52a43f]
 t1: [669d094fec868, 627a43984c662, 7efa8cf8cbc0e, 5c58b51bfbf41, 401b74d52a440]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2a5361f79c27d, d93af7c8423e, 4644aa6f90798, 286b298926bc1, 41281d21df85d]
@@ -1158,6 +1219,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [76f638a25ca8, 7292f71258106, 544962503bf43, 4ad785f073520, 3e748aaeb18f2]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [712138ebb469d, 1ada11db4fdf3, 576d3b5f88178, 6a50f41f195be, 316eaa29ce1a]
 t2: [f5657f09267f5, 94123e250b5c9, 9acd71ea24438, c5473e3159ca4, e7853c235e26c]
 t3: [75657f0926808, 14123e250b5ca, 1acd71ea24439, 45473e3159ca5, 67853c235e26d]
@@ -1177,6 +1239,7 @@ t16: [2ff8df09cfe28, 7c89710d7d7d7, 5c5db3709542a, 6d2781c689c63, 1984347bcf361]
 t17: [6199c9262c85, 27014cbd3ace3, 7dda448af4446, 36ce6f50e5822, 449252a5582cb]
 -----------------------------------------------------
 choice: 0
+t0: [aff8df09cfe15, fc89710d7d7d6, dc5db37095429, ed2781c689c62, 9984347bcf360]
 t1: [500720f6301c5, 3768ef282828, 23a24c8f6abd5, 12d87e397639c, 667bcb8430c9e]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [73ccc6db3a6d0, 31fd66858a639, 44b76ea17773, 1263215e34fba, 76db5ab54fa69]
@@ -1196,6 +1259,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7afb3adae27b2, 6b649cebd64f9, 6fb9749d016f, 6f67041fec09a, 1e4d5de2698ef]
 -----------------------------------------------------
 choice: 0
+t0: [9fcb2cc8534f7, fd05eb0ff4e13, feb1d98451887, 88b8f12af36ee, dca857ff88b4d]
 t1: [1fcb2cc85350a, 7d05eb0ff4e14, 7eb1d98451888, 8b8f12af36ef, 5ca857ff88b4e]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [a098a4a3b089, 2936c6285360c, 7208d16c5fd20, 2131f7c027ecb, 4365443b2ce20]
@@ -1215,6 +1279,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6cd006855b963, 5909abd3a4578, 59faa6ad9434e, 7e04e2b706ea1, 4f05e7b58519a]
 -----------------------------------------------------
 choice: 0
+t0: [d0ef0d11f4e61, da41dd7a13383, c9063361c2394, a033dced2938b, d8fdb8cf1680a]
 t1: [50ef0d11f4e74, 5a41dd7a13384, 49063361c2395, 2033dced2938c, 58fdb8cf1680b]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [265ff2f548d14, 4deca858b750e, 4c0ab2a4d7962, 3f63a91f22bc, 61f43094f5cca]
@@ -1234,6 +1299,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [3065c99066c1e, 4f3b3b7287b9, 7f0eecc831c77, f196b5fe8cbf, 9cfe120ce7eb]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1f346cdf327b1, 76189891af08d, 1e2266f9c711, 61cd29402e680, 6c603dbe63029]
 t2: [b0d76412ccddc, d1d65ca3ef2ac, a2f97ca7639b1, fa740b5035350, e479b2906b9b2]
 t3: [30d76412ccdef, 51d65ca3ef2ad, 22f97ca7639b2, 7a740b5035351, 6479b2906b9b3]
@@ -1253,6 +1319,7 @@ t16: [73c0f93385d10, 7038a20c33b23, 66ff68765c048, 6e4e91c11ceed, 4db43fae48b92]
 t17: [741442b6dcb15, 29744f7c491a6, 1d1643a3ffd9f, 3f1262278caa4, f8581e687ddf]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [17d77a92469c3, 2d1761076dcb2, 45d378b8004c1, 1db3bb0e6ab7, 60f4fc32f0441]
 t2: [f3c0f93385cfd, f038a20c33b22, e6ff68765c047, ee4e91c11ceec, cdb43fae48b91]
 t3: [c3f06cc7a2dd, fc75df3cc4dc, 19009789a3fb7, 11b16e3ee3112, 324bc051b746d]
@@ -1272,6 +1339,7 @@ t16: [73e8311a9f50a, 1944a0f3e7bac, 783fbd33b6efc, 36f064bed2cc, 49b35e39a67c8]
 t17: [27522707c3b73, 7a56633418916, 334fb1f31e290, 7c60e351d21b4, eaeb543ce01c]
 -----------------------------------------------------
 choice: 0
+t0: [f3e8311a9f4f7, 9944a0f3e7bab, f83fbd33b6efb, 836f064bed2cb, c9b35e39a67c7]
 t1: [c17cee560ae3, 66bb5f0c18453, 7c042cc49103, 7c90f9b412d33, 364ca1c659837]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [315bb1f078907, b533997cedd3, 19609c19c3ade, 73e395c5bc97, 62a2957863fc6]
@@ -1291,6 +1359,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [54222c0789728, 321c8fbbd32da, 1925f6bdd8d4, 55a7611aa3037, 5784267ebbc59]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [57bba7f0ed18a, 1bc6e08859a4a, 7cdb412844e57, 54b13dcab9f91, 50f7b3028874c]
 t2: [c516b0630b994, e94859a18e8f0, fc6a929477aec, c05082421bd07, fc31a7c27cd73]
 t3: [4516b0630b9a7, 694859a18e8f1, 7c6a929477aed, 405082421bd08, 7c31a7c27cd74]
@@ -1310,6 +1379,7 @@ t16: [703fc6517784f, 1aebfa8508158, 1beecd9b042e2, 7552889905632, 423fa42bb4191]
 t17: [c789339cc9a0, 43ef644971de3, 614ce60162cde, 743ab1e2ab5b6, 1a78511fb250e]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [670ed98c66cad, 7821376d1c439, 3d6633fd3a642, 178a9c3aa9492, 4b0f5dc09b5e2]
 t2: [f03fc6517783c, 9aebfa8508157, 9beecd9b042e1, f552889905631, c23fa42bb4190]
 t3: [fc039ae8879e, 6514057af7ea7, 64113264fbd1d, aad7766fa9cd, 3dc05bd44be6e]
@@ -1329,6 +1399,7 @@ t16: [57d031c410ea0, 5648985132a60, 460e25960bfdb, 5d0a6d9dd3dc7, 476fbe00f225d]
 t17: [1df3cc4c81fc7, 1bb9eeaa73dd5, 7f2a8274cb19c, 5c4fa1fa62541, 56e4a8bb8c56f]
 -----------------------------------------------------
 choice: 0
+t0: [d7d031c410e8d, d648985132a5f, c60e25960bfda, dd0a6d9dd3dc6, c76fbe00f225c]
 t1: [282fce3bef14d, 29b767aecd59f, 39f1da69f4024, 22f592622c238, 389041ff0dda2]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [44186766fc04c, 488c22ab18455, 1aafb1669cc7, 4760bc0b3b57c, 5236ae88e7520]
@@ -1348,6 +1419,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [2a13a92c954d4, 7ae3fe63150e4, 29514f0be3b33, 257d6f7f75011, 4a98b083e4567]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [2bd8ada6d5632, a380339d5e37, 2d5d61e838998, 3505210115fdd, 6ace9ef837531]
 t2: [b483a53400504, eadee048c1085, 869ca80414c93, ab4fb7bdf6c7a, b1db9daea7bae]
 t3: [3483a53400517, 6adee048c1086, 69ca80414c94, 2b4fb7bdf6c7b, 31db9daea7baf]
@@ -1367,6 +1439,7 @@ t16: [796f5f148419a, 717d5117b95c1, 28bc9bcf88b89, fe7dec6cb74f, 1a1d44d04edf]
 t17: [4c6336ad03dc2, 20c4ceaa89610, 15d1f653fd70a, 20d5c47280f60, 33b460d24b216]
 -----------------------------------------------------
 choice: 0
+t0: [f96f5f1484187, f17d5117b95c0, a8bc9bcf88b88, 8fe7dec6cb74e, 81a1d44d04ede]
 t1: [690a0eb7be53, e82aee846a3e, 5743643077476, 70182139348b0, 7e5e2bb2fb120]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [673992a5f8469, 3e7662aaed3de, 545c1358051eb, 3e54771afe13f, 18973e5b69bd3]
@@ -1386,6 +1459,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [2865836baeaf5, b82f03ab545e, 7c81800ef2659, 5d7e17058f5be, 194366dd84b0e]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [2f34f928a2a03, 68fa1f8a95743, 6fcffe21b34d, 4503d1f4e1482, 4d793244f69e2]
 t2: [a44a6521ebfad, ec89a623b672a, d361aeb2bbcf4, c9166997e83a2, 941927c795086]
 t3: [244a6521ebfc0, 6c89a623b672b, 5361aeb2bbcf5, 49166997e83a3, 141927c795087]
@@ -1405,6 +1479,7 @@ t16: [543c0540bd29, 323e45103418c, 7bd17604d4a7c, 36ff7200feb1, 65acf5dae7b69]
 t17: [5763a456547a6, 439fd6a5a70b2, 4af342c107052, 7635bdb2f083e, 463ae337f9022]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5138b7535708e, 78c052b4b1e9a, 6a197a7df1f5a, 1394849a1ef82, 738a39900dfba]
 t2: [8543c0540bd16, b23e45103418b, fbd17604d4a7b, 836ff7200feb0, e5acf5dae7b68]
 t3: [7abc3fabf42c4, 4dc1baefcbe73, 42e89fb2b583, 7c9008dff014e, 1a530a2518496]
@@ -1424,6 +1499,7 @@ t16: [7e24d9dd46fa6, 11d9be81dcf15, 18ba8e8449ca6, 795b136a5299c, 2a200280c53bd]
 t17: [7e564a6085510, 383c530af72a7, 6992458a765f9, 51d25b67e1937, 62de8062bc3e9]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3536b3ef55ba, f8759ea11ab0, 2cdb74eb1340d, 5c5b49303cd90, 3a42ff3a8782c]
 t2: [fe24d9dd46f93, 91d9be81dcf14, 98ba8e8449ca5, f95b136a5299b, aa200280c53bc]
 t3: [1db2622b9047, 6e26417e230ea, 6745717bb6359, 6a4ec95ad663, 55dffd7f3ac42]
@@ -1443,6 +1519,7 @@ t16: [5e56ddc10f29d, 700bd3c473cb7, 20ccfaaf17aa1, 51ef07ac3db7, 194cc6eb2926c]
 t17: [2cf41bdbf7998, 411d0ceddc684, 70b85f16a1e5, 159b42ea5987c, 77f60628616cc]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [2617c84810caa, 7dc5e624472f7, 71e8f41d2bc34, 54c97a2b4cf07, 1013f3af3d267]
 t2: [de56ddc10f28a, f00bd3c473cb6, a0ccfaaf17aa0, 851ef07ac3db6, 994cc6eb2926b]
 t3: [21a9223ef0d50, ff42c3b8c348, 5f330550e855e, 7ae10f853c248, 66b33914d6d93]
@@ -1462,6 +1539,7 @@ t16: [66aff895efc84, 213585e500827, 78de30447c17b, 2cd84825cbf59, 198759bd4bcce]
 t17: [1d9eeaa1f08f, e811cf980b0c, 531cdfe719b1f, 6c210a1c19779, 5eb22ffc270fb]
 -----------------------------------------------------
 choice: 0
+t0: [e6aff895efc71, a13585e500826, f8de30447c17a, acd84825cbf58, 998759bd4bccd]
 t1: [1950076a10369, 5eca7a1aff7d8, 721cfbb83e84, 5327b7da340a6, 6678a642b4331]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [7c4c22abc1ebc, 62fdc60cfe9e7, 59c64031cc9c1, 27bdebc7cd10c, 429ba007b1e08]
@@ -1481,6 +1559,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [5e9ee3bd7bf1e, 3c4c88a7d94e3, 583d8b3b85e51, 3fe468f56f8df, 38d28bdc1be4e]
 -----------------------------------------------------
 choice: 0
+t0: [95c325c874937, a206b8ea890fa, 9560dfcf8e52c, b2ce10e3da686, ca910cc8926a7]
 t1: [15c325c87494a, 2206b8ea890fb, 1560dfcf8e52d, 32ce10e3da687, 4a910cc8926a8]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [42c23885081b1, 766eeb04d638, 4f84e988f435d, 372e1520e40, e5ae847c8363]
@@ -1500,6 +1579,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [36d816ed7e53b, 42688a34742a3, 6f95fc8056f18, 3a3e079862a4f, 32806e750b15a]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [124fd22503577, 7b2eeb9717ab9, 20d406ff521ce, b83f0cf3ab60, 1aff2315e9d4b]
 t2: [95d2d6bcc86f5, 9a4eb09f36435, 88158025d49dc, be6f9602648e6, 988366d820c0d]
 t3: [15d2d6bcc8708, 1a4eb09f36436, 8158025d49dd, 3e6f9602648e7, 188366d820c0e]
@@ -1519,6 +1599,7 @@ t16: [9b15239cfa7e, 50fe1508ca154, 3b01b18fb9e1b, 269a701b28327, e9fee17fade8]
 t17: [278cc62b251ea, 1a4150b13f001, 775bf300ffc16, 13bf8c618e5c4, 15fd974d80ba5]
 -----------------------------------------------------
 choice: 0
+t0: [89b15239cfa6b, d0fe1508ca153, bb01b18fb9e1a, a69a701b28326, 8e9fee17fade7]
 t1: [764eadc63056f, 2f01eaf735eab, 44fe4e70461e4, 59658fe4d7cd8, 716011e805217]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [30e673a9b5c19, 4b7d5e9d81ffd, 114819fe007d3, 5880e73ce3476, 5404d164fe8b5]
@@ -1538,6 +1619,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [3fdf5b91afd0a, 2f1725c45130, 29abcf3e2377f, 69fd91e3eb4b7, 260ef0bf9dd20]
 -----------------------------------------------------
 choice: 0
+t0: [ea02cf56aacda, edc0ba41d6a3c, e3696b959b77b, b43fad198c17d, 93da26855aca1]
 t1: [6a02cf56aaced, 6dc0ba41d6a3d, 63696b959b77c, 343fad198c17e, 13da26855aca2]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4148dca05d9, 7a1d1b4775d9f, 2ca86183b9101, 2c04dc3829691, 33e21e80c45be]
@@ -1557,6 +1639,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [413681442a5a8, 60760c1c9a9e2, 267dbf2b46204, 5e0b9abad7e1, 6bb3bf23d351a]
 -----------------------------------------------------
 choice: 0
+t0: [c8e293533047b, d149b82104e3e, ca94cbdd42045, cb16e4410cb9c, 8f85a5ebe86aa]
 t1: [48e293533048e, 5149b82104e3f, 4a94cbdd42046, 4b16e4410cb9d, f85a5ebe86ab]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [7d92fd77ab48a, 3f13e7c6cac3a, 330481a973bf6, 743e8ca8a503d, 289881b8595cb]
@@ -1576,6 +1659,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [81526e389c5b, 482ff63ed53a2, 63244c7416051, 6b066baead5d7, 6111311d0aabb]
 -----------------------------------------------------
 choice: 0
+t0: [d9d1f53e63f74, b11a98cb7a738, d5215c28b6512, d4e04449f42b0, ca5575ba3313b]
 t1: [59d1f53e63f87, 311a98cb7a739, 55215c28b6513, 54e04449f42b1, 4a5575ba3313c]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [6fd5b238ec724, 6fa01382558bb, 39b76717d3f5c, 29f328a2a5450, 3ddd9dc5eaa88]
@@ -1595,6 +1679,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [c5ce49d9894b, 3e9224d172a5a, 13913ac50f3ac, 3997bf1e9c245, 1c74f99cd78f]
 -----------------------------------------------------
 choice: 0
+t0: [a85d0eb86e870, bf6a29ca6506c, fd1a49205da00, 945c3fd65a729, 856bebde9e919]
 t1: [285d0eb86e883, 3f6a29ca6506d, 7d1a49205da01, 145c3fd65a72a, 56bebde9e91a]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [674636c4ced57, 2dbb65d1ab4b, 58dd8a75e18a7, cd081c2c7b75, 7c7160cc650e1]
@@ -1614,6 +1699,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [2625e6eade77c, 50ae9e2790b27, 19821fe50d720, 8c0b1828b03e, 201e65722112b]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [33b4322a430f5, 5ea2c3b0de9b1, 4cfbc035e51be, 6e7e9cfae9f83, 3fc3351bbdda9]
 t2: [d36881658819d, ea72133223e64, 92e19842d5ad5, dc832d248a961, fc9e1195828fd]
 t3: [53688165881b0, 6a72133223e65, 12e19842d5ad6, 5c832d248a962, 7c9e1195828fe]
@@ -1633,6 +1719,7 @@ t16: [51fbc71fdddc4, 3a87f2abee81a, 11aa0b62de8c4, 4c43b543bf86a, 96a319a01e19]
 t17: [18ed20704616a, 4c990f8d79489, 25669c6a58488, 16612fa77f53, 726de7496de53]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4e25bf1f73d06, 66cde0e50d6ed, 3532c72b4f6ee, 7d33da0b10159, 1b24316d24359]
 t2: [d1fbc71fdddb1, ba87f2abee819, 91aa0b62de8c3, cc43b543bf869, 896a319a01e18]
 t3: [2e0438e022229, 45780d54117e5, 6e55f49d2173b, 33bc4abc40795, 7695ce65fe1e6]
@@ -1652,6 +1739,7 @@ t16: [2bedd8f80d861, 38c2237d789be, 3870cb494bfe2, 561267fffe163, 65e7c45021429]
 t17: [6e61264640cbb, 562abae19d582, 66b16bd8013d6, 753e5057f4ae9, 64db6cfc342f1]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [233db3737e664, 53aa8a3cc54fa, 329d284ffd852, 15835f5016a2c, 3649260797a1c]
 t2: [abedd8f80d84e, b8c2237d789bd, b870cb494bfe1, d61267fffe162, e5e7c45021428]
 t3: [54122707f278c, 473ddc8287641, 478f34b6b401d, 29ed980001e9c, 1a183bafdebd6]
@@ -1671,6 +1759,7 @@ t16: [21a106ef26271, 7a0dce3fc8ee3, 3320fbefa7f09, 7592b2202722f, 79d9ba25952d0]
 t17: [749b7bae2de76, 63da1169c91bd, 30fc5d1a165a5, 312bc10685969, 7b1e69b59556a]
 -----------------------------------------------------
 choice: 0
+t0: [a1a106ef2625e, fa0dce3fc8ee2, b320fbefa7f08, f592b2202722e, f9d9ba25952cf]
 t1: [5e5ef910d9d7c, 5f231c03711c, 4cdf0410580f6, a6d4ddfd8dd0, 62645da6ad2f]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [16c908a3a42ee, 384bdd2c6dc84, 1e0745cbd34b4, 1da87df2f4d2d, 9c32c94d552b]
@@ -1690,6 +1779,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7fd91bdb4b4f9, 257aabd63ea9, 5ff6fa5d94f7d, 3ed8380138223, 43661c7e72dd7]
 -----------------------------------------------------
 choice: 0
+t0: [c54c7050f1fe1, d6a453a2b3a45, 8581ecd2d3958, aa5e12755c8fd, f0c1b2e10ac58]
 t1: [454c7050f1ff4, 56a453a2b3a46, 581ecd2d3959, 2a5e12755c8fe, 70c1b2e10ac59]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4dc849695e8, 7b50aa85382ac, 40120b44d6105, 24f8ffd8fbb8, 7933c7031a451]
@@ -1709,6 +1799,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [310d6036cda85, 781e15ceaffcf, 57720704f491b, 521808235d249, 427ce8049380e]
 -----------------------------------------------------
 choice: 0
+t0: [b71b912b6baf5, 8257769c5f83f, f857aaa526ea9, 8bf6601c844cb, c3f1f5372ce96]
 t1: [371b912b6bb08, 257769c5f840, 7857aaa526eaa, bf6601c844cc, 43f1f5372ce97]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [1de53f9264ad0, fc3d462a0061, 511bf1f616dc8, 5bcfefb945b6c, 7b062ff6d8fe2]
@@ -1728,6 +1819,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [3dee18a5837f8, 638bd14771322, 549429dabf4b6, 33badf75b5720, db380b7caf55]
 -----------------------------------------------------
 choice: 0
+t0: [9f74fe942078b, 9a970ff284962, c231c02ead692, a73fa431c4acb, c9a4da891e3e4]
 t1: [1f74fe942079e, 1a970ff284963, 4231c02ead693, 273fa431c4acc, 49a4da891e3e5]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [423ceb4f8ffd, 38e85d711d9bb, 56d7ac4a81692, 188a4114951be, 6498fe906a155]
@@ -1747,6 +1839,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [18950ffca3cf7, 3c7eb7d20ced8, 46a6e12febe8d, 3bc6735883165, 3f53346136643]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4ed5e006b85ff, 702905be624f, 72b23da0282e5, 873194ef9d34, 159973d93379]
 t2: [8c0fdf16b88c9, d9fc6db152b55, fa374685f7a26, 8faf79cbc495f, 82d12aea56f60]
 t3: [c0fdf16b88dc, 59fc6db152b56, 7a374685f7a27, faf79cbc4960, 2d12aea56f61]
@@ -1766,6 +1859,7 @@ t16: [6c9f89647cb3c, 5eaa9ff18b2dd, 641f8e0a06bc2, 38e5a49d5ddb3, 27e3cb7ef29a0]
 t17: [66839b4f972c2, b78d0197721a, 6d0c473a66a82, 1701ac5c86467, 200451702d1bd]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [32f8c960d1a69, 690e5fcd11bca, 25e7718b32afb, 51fca746f3730, 3ff75d1fa5c85]
 t2: [ec9f89647cb29, deaa9ff18b2dc, e41f8e0a06bc1, b8e5a49d5ddb2, a7e3cb7ef299f]
 t3: [1360769b834b1, 2155600e74d22, 1be071f5f943d, 471a5b62a224c, 581c34810d65f]
@@ -1785,6 +1879,7 @@ t16: [4090377c59147, 6d917f3cc7c38, 761292c8f860b, d2b882319797, 3b643f6a83f3e]
 t17: [2ebd9c19527b4, 2e8add701076d, 7d0b0d583a485, f5b4e23fb0c0, 7a388fca03e35]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [2284c7cd5b072, 22ea451fdf125, 5e9e54f8b6f5, 614963b809e7e, b8ee06bf8395]
 t2: [c090377c59134, ed917f3cc7c37, f61292c8f860a, 8d2b882319796, bb643f6a83f3d]
 t3: [3f6fc883a6ea6, 126e80c3383c7, 9ed6d37079f4, 72d477dce6868, 449bc0957c0c1]
@@ -1804,6 +1899,7 @@ t16: [2cf7e9e062a24, 1d29e14884a86, 2f32123e538aa, 4f2461a2364e9, 144443062e2ba]
 t17: [719bd8ddd9759, 772d2208226f0, 7b7639a7df6b0, 4444a1dbce953, 162ce3585b1ca]
 -----------------------------------------------------
 choice: 0
+t0: [acf7e9e062a11, 9d29e14884a85, af32123e538a9, cf2461a2364e8, 944443062e2b9]
 t1: [5308161f9d5c9, 62d61eb77b579, 50cdedc1ac755, 30db9e5dc9b16, 6bbbbcf9d1d45]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [1cc84e444d13b, 11a5bbefbb21e, 9138cb04129e, 7776bc4862d58, 53a6394f49c6a]
@@ -1823,6 +1919,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [75b18d7982d7e, 781441c4945f1, 40d750be9e26b, 1366c5d928fe, 6ee54708e7925]
 -----------------------------------------------------
 choice: 0
+t0: [ad57aee2bf1d7, e7a0606bfc2dc, e04ab6c07d5ae, da25dc9f2c652, a95f0e21f5666]
 t1: [2d57aee2bf1ea, 67a0606bfc2dd, 604ab6c07d5af, 5a25dc9f2c653, 295f0e21f5667]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [149ce50cfa4de, fd77c76d741c, 7e515e82c3b28, 7d932744dae02, 223571ee30db5]
@@ -1842,6 +1939,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [3080aa58b0b9f, 5dded98eded1c, 4c02bba213c43, 77e831fce9b38, 3b061a9bf03b4]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1efeab4e9e8af, 44424ce2425c7, 67fa88bbd8778, 102f9c062c98e, 9f3cac81f896]
 t2: [a34f43ad1a6d5, 805096c2d19c8, b58b98deb0fe0, ddb62b0c2bd68, dcb4a670653d3]
 t3: [234f43ad1a6e8, 5096c2d19c9, 358b98deb0fe1, 5db62b0c2bd69, 5cb4a670653d4]
@@ -1861,6 +1959,7 @@ t16: [69fe472cec6b2, 67abe8b2a5abd, 592ebfecd310b, 1308568cd126a, 1659bc4546cab]
 t17: [4779f566c62ed, 619cce835e2ac, 738f3afbc0719, 7d1a70c956d90, 2b549b54b421]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [710c153273a13, 3cc662f943aa6, 18e18a087f1cc, 5cb1e6d524de, 7a956c95697bc]
 t2: [e9fe472cec69f, e7abe8b2a5abc, d92ebfecd310a, 9308568cd1269, 9659bc4546caa]
 t3: [1601b8d31393b, 1854174d5a542, 26d140132cef4, 6cf7a9732ed95, 69a643bab9354]
@@ -1880,6 +1979,7 @@ t16: [1300fcf1d4ff9, 330e784c888d2, 57ae5c5791d46, 2131ba4f3d4f1, 50640b5786882]
 t17: [307eef52ed73a, 1e2debd07d74, 11697126559df, 7d2ad32c01d09, 5c7a4fd0475b8]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1f02215a25166, 7c3a4285f0517, 5d2d1db354c41, 5aa59a7fc5ed, 470b605f7148e]
 t2: [9300fcf1d4fe6, b30e784c888d1, d7ae5c5791d45, a131ba4f3d4f0, d0640b5786881]
 t3: [6cff030e2aff4, 4cf187b37772d, 2851a3a86e2b9, 5ece45b0c2b0e, 2f9bf4a87977d]
@@ -1899,6 +1999,7 @@ t16: [3bf481d7698db, 4a7fc0576d574, 6904256655404, 71acb88f0fc4, 4f063ab4a6442]
 t17: [10fa663a25f08, 370b0d982451d, 461a486bc0fe2, 347bb3bfc5f4d, 25ae7211c6c17]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5e0b338bb41dd, 11e9e4cfb75c5, 73cb6f287e03b, 1708988074164, 34a31bdc727d1]
 t2: [bbf481d7698c8, ca7fc0576d573, e904256655403, 871acb88f0fc3, cf063ab4a6441]
 t3: [440b7e2896712, 35803fa892a8b, 16fbda99aabfb, 78e534770f03b, 30f9c54b59bbd]
@@ -1918,6 +2019,7 @@ t16: [527dd4028d385, 7dfcbf4f11cb9, 2b612acd8d80d, 79882078643f8, 4a0a7a41f3b64]
 t17: [3611c7b72ff58, 2880cf604d2f5, 65e7d747b3081, 12f99567464b0, 571b7ebf516ab]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [13dc7091a012a, 2efe613f65a15, 3430517099efd, 5a0cd5317369e, 51c902815d2a9]
 t2: [d27dd4028d372, fdfcbf4f11cb8, ab612acd8d80c, f9882078643f7, ca0a7a41f3b63]
 t3: [2d822bfd72c68, 20340b0ee346, 549ed532727f2, 677df879bc07, 35f585be0c49b]
@@ -1937,6 +2039,7 @@ t16: [2339ead65f1f4, 1addd1e0d020, cd0352249a4b, 29e9f8c771d65, 708a4bac7206a]
 t17: [2fdba707bdf3b, 263fe0c44e22a, 64895db557413, 6f2d3683877dd, 59cb9a2f27cfa]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [2048b1f084164, 33803e7763bab, 36ed4495517d9, 21a592f8f1044, 4c68cba1b060a]
 t2: [a339ead65f1e1, 81addd1e0d01f, 8cd0352249a4a, a9e9f8c771d64, f08a4bac72069]
 t3: [5cc61529a0df9, 7e5222e1f2fdf, 732fcaddb65b4, 561607388e29a, f75b4538df95]
@@ -1956,6 +2059,7 @@ t16: [475a676a3dc76, 691e7c35a2298, 6109854bca6ab, 5abe8ef7aa0d4, 5fdf9f2079fa8]
 t17: [555d9c1659120, 4342992cf10a7, 434943612afe7, 673d98178f89d, 4d42d60859b7c]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5544c7d34dd9a, 797acda61deb0, 796d793daa030, 3184cfd0e0ec4, 657a53ef4c906]
 t2: [c75a676a3dc63, e91e7c35a2297, e109854bca6aa, dabe8ef7aa0d3, dfdf9f2079fa7]
 t3: [38a59895c2377, 16e183ca5dd67, 1ef67ab435954, 2541710855f2b, 202060df86057]
@@ -1975,6 +2079,7 @@ t16: [46adc37f3f3f, 17f353f49859e, 52315465820a7, 238b4738a3bf5, 7d5031bb4d4d6]
 t17: [36be4f7ef41f8, 586fb5b2ceea3, 5a3a43e152d91, 52cb22aad31fc, 5a1b7b17b395c]
 -----------------------------------------------------
 choice: 0
+t0: [846adc37f3f2c, 97f353f49859d, d2315465820a6, a38b4738a3bf4, fd5031bb4d4d5]
 t1: [7b9523c80c0ae, 680cac0b67a61, 2dceab9a7df58, 5c74b8c75c40a, 2afce44b2b29]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [1283610217bea, 4f20949a622b9, 4b8b783d5a4dc, 5a69baaa59c06, 4bc909d098d46]
@@ -1994,6 +2099,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [1d2661e4e3910, 38774bec94f37, 2bfcb50f954d5, 49e799be7f206, 31e0207fc6899]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [45b33c3638dcd, f116826d6191, 280695e0d5655, 6c30cc8301bf3, 1c3fbf0072ecc]
 t2: [e89ba09ad817d, 8f027b55d9f72, f72123777ab43, 9fd93eede961b, dcd17327f23d1]
 t3: [689ba09ad8190, f027b55d9f73, 772123777ab44, 1fd93eede961c, 5cd17327f23d2]
@@ -2013,6 +2119,7 @@ t16: [158cb4e77e1dc, 1aaeac306ef79, 14a4ccf13f897, 2f7c3c463e554, 5bc4320bf297a]
 t17: [3bed6c42c0118, 243de747cb851, 4de5a0a33bbef, 7a374339b886, 7d939478d934d]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [825277a7fdaa, 3784317068f5d, 6434beb988821, 70b91798c8ef2, 4d8d70e4d965]
 t2: [958cb4e77e1c9, 9aaeac306ef78, 94a4ccf13f896, af7c3c463e553, dbc4320bf2979]
 t3: [6a734b1881e11, 655153cf91086, 6b5b330ec0768, 5083c3b9c1aab, 243bcdf40d685]
@@ -2032,6 +2139,7 @@ t16: [256e5e48e0ff3, 294865055a3fb, 2e7d0be1cb021, 47194da9da3d6, 52148917a0bfb]
 t17: [2eb7276a385b0, 8122fa79857a, 59bb555a3e2fc, 128411854cb13, 1010672a307d5]
 -----------------------------------------------------
 choice: 0
+t0: [a56e5e48e0fe0, a94865055a3fa, ae7d0be1cb020, c7194da9da3d5, d2148917a0bfa]
 t1: [5a91a1b71effa, 56b79afaa5c04, 5182f41e34fde, 38e6b25625c29, 2deb76e85f404]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2291b12b8f48d, 6fdba0b0cf50b, 4c89554b83a07, 5af7dcf5669d8, 5fdf31ab9f055]
@@ -2051,6 +2159,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [70373fc93d76f, 73fe13c0a7c36, 53a755d6beb6, 27ab6a9298e55, 6f546a883a9eb]
 -----------------------------------------------------
 choice: 0
+t0: [e16b6048e7d77, d8eee640a4a75, 8d00b1ac3e5ee, 812010c14d4f8, a91b9e51b2c12]
 t1: [616b6048e7d8a, 58eee640a4a76, d00b1ac3e5ef, 12010c14d4f9, 291b9e51b2c13]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [1f91806d850fc, 1803d87eb0792, 758b154528292, 30a92adace355, 21572aef8ac29]
@@ -2070,6 +2179,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [368f6db24ac66, 6e6d59c40a178, 5353fb463f339, 5644e3958a1df, 30d4226f7eb54]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [12e1249b6a721, 23254c77ebd0f, 595809738198c, 537638d4ebc40, 1e57bb2102956]
 t2: [93bd84465a7cd, c07835a1299ee, d5556af9b47b0, d308c4cae476a, bf97e1e5ac238]
 t3: [13bd84465a7e0, 407835a1299ef, 55556af9b47b1, 5308c4cae476b, 3f97e1e5ac239]
@@ -2089,6 +2199,7 @@ t16: [39f314a6054da, 612ee314caaf7, 34453a84d1966, 20c160d44eff4, b99238433f86]
 t17: [268a38d13c6aa, 3fd164f14dc79, 4b228687b811c, 4814f1e608cd0, 41fa63edc7d0]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [32eb8e5d87299, 5d361d6470d, 69baf2f08fdc7, 6fd61c33ee65e, 77c0b3824705e]
 t2: [b9f314a6054c7, e12ee314caaf6, b4453a84d1965, a0c160d44eff3, 8b99238433f85]
 t3: [460ceb59fab13, 1ed11ceb35508, 4bbac57b2e699, 5f3e9f2bb100b, 7466dc7bcc079]
@@ -2108,6 +2219,7 @@ t16: [56b32b433b922, 4204b33304d58, 228c85765022d, 73c3f5bde6e83, 37ead302e173d]
 t17: [6281553938d11, 21b3e34aed5f4, 4bc296ade5e13, 613c5054b0ba6, 7d0b345c9324e]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3afd558d8e5b8, 3c98396a25416, 687ad2a4343d9, 3d875f569e8b2, 5e99746d9b62]
 t2: [d6b32b433b90f, c204b33304d57, a28c85765022c, f3c3f5bde6e82, b7ead302e173c]
 t3: [294cd4bcc46cb, 3dfb4cccfb2a7, 5d737a89afdd2, c3c0a421917c, 48152cfd1e8c2]
@@ -2127,6 +2239,7 @@ t16: [4f78d2a1be8c8, 23e22e4767824, 9379f2b13985, 5c857a6d9ce7c, 558e399df1f1b]
 t17: [2125d03bd918b, a964bfbe977a, 2a7b596b4ce4f, 2c79547396423, c1124de2deec]
 -----------------------------------------------------
 choice: 0
+t0: [cf78d2a1be8b5, a3e22e4767823, 89379f2b13984, dc857a6d9ce7b, d58e399df1f1a]
 t1: [30872d5e41725, 5c1dd1b8987db, 76c860d4ec67a, 237a859263183, 2a71c6620e0e4]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [3db45f884dcd7, 6ad368082d10b, 2b094d2966361, 270d5718d37b9, 67ddb643a4227]
@@ -2146,6 +2259,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [375f75b287ded, 38beeffd88bc7, 1196d07520f84, 128b48d27ad52, 3d53d370e847c]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1141149af0413, e822004ee871, 5cd25f15be0f7, 5ae96e5b0a55b, 558591e2f707]
 t2: [bec6a679bebf4, f25d079871fad, 9b8b6bf290dbd, 80ee84e0ae9dd, b867f9206b4f9]
 t3: [3ec6a679bec07, 725d079871fae, 1b8b6bf290dbe, ee84e0ae9de, 3867f9206b4fa]
@@ -2165,6 +2279,7 @@ t16: [244b34c364bcd, cfe69572f39a, 626cb50170fa7, 764b941041fda, 671c59ab8ce]
 t17: [24baa8d7cf873, b64c1bda3b9d, 6b5b12030e459, 6f55ed42c7e6b, 7a50372dcaaa1]
 -----------------------------------------------------
 choice: 0
+t0: [a44b34c364bba, 8cfe69572f399, e26cb50170fa6, f64b941041fd9, 80671c59ab8cd]
 t1: [5bb4cb3c9b420, 730196a8d0c65, 1d934afe8f058, 9b46befbe025, 7f98e3a654731]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [368aae5060ef4, 69367c84b88c5, 2949dbf9e374d, 2154257a70328, b5f91a46aabc]
@@ -2184,6 +2299,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [20bb79e5c2cc4, 4aa8420ea7667, 11d8ad45f7601, 66f71b9670399, 72be1e19d801d]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3e890c347a652, 6aaf7be2b1331, 5c4ea574113fc, 3211c8d31f8cd, 1a83c3cc4ffc4]
 t2: [f9a7029123c71, aa970ea7a3775, be83dfd9c98c5, b1c94cf5b517d, f42686ad265fc]
 t3: [79a7029123c84, 2a970ea7a3776, 3e83dfd9c98c6, 31c94cf5b517e, 742686ad265fd]
@@ -2203,6 +2319,7 @@ t16: [1db52b64b921a, 6a96511f8d05d, 4b48ad8d38333, 7a72614c89e47, f0ae88e0f19a]
 t17: [4c20e75793c11, 4d022b1630aca, 4d63f53e1325a, 280309ea1e204, 705d6271cd2aa]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [67be3150d87b8, 65fba9d39ea6a, 65381583d9b4a, 2ff9ec2bc3bf6, 1f453b1c65aab]
 t2: [9db52b64b9207, ea96511f8d05c, cb48ad8d38332, fa72614c89e46, 8f0ae88e0f199]
 t3: [624ad49b46dd3, 1569aee072fa2, 34b75272c7ccc, 58d9eb3761b8, 70f51771f0e65]
@@ -2222,6 +2339,7 @@ t16: [445395b1efb9a, 2cd811e7b6406, a7442ba2d27a, 28574840e06c3, 4958072d247f4]
 t17: [5794e3b6dd8f5, 76cbe3836da60, 4fc97abfd1f45, 2997717e7bec3, 691ddce8de17e]
 -----------------------------------------------------
 choice: 0
+t0: [c45395b1efb87, acd811e7b6405, 8a7442ba2d279, a8574840e06c2, c958072d247f3]
 t1: [3bac6a4e10453, 5327ee1849bf9, 758bbd45d2d85, 57a8b7bf1f93c, 36a7f8d2db80b]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [50d6389244df0, 126838f924b3e, 606d0a805c174, 2cd11d0308278, 2dc4462e43d03]
@@ -2241,6 +2359,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [2d61c6ea77695, 7a87caaa20fc, 3ffc6b2672c4a, 79bd9cd888ecf, b120627db445]
 -----------------------------------------------------
 choice: 0
+t0: [c1723233c2592, f3dde0af2396a, abbd52cd0f564, ca88c20a5abbc, bfa805759c404]
 t1: [41723233c25a5, 73dde0af2396b, 2bbd52cd0f565, 4a88c20a5abbd, 3fa805759c405]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [253c722b112c3, 70af06aabbe07, 729b31a76b, c84c64eee261, 69dbf3b049774]
@@ -2260,6 +2379,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [3bed04c279f05, 64f8e4f6171c0, 78e9bf7c366ba, 68dae0da47a79, 5ac5ff4667c78]
 -----------------------------------------------------
 choice: 0
+t0: [9b565b1caf762, c248e468ce5db, abbd7ed761f77, 8328957e92425, 91e5391c1fdab]
 t1: [1b565b1caf775, 4248e468ce5dc, 2bbd7ed761f78, 328957e92426, 11e5391c1fdac]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [825f67b0c1d0, 360e3613d1c7f, e2c81079328a, 2e4a3e4b70b0c, 4a7401733070e]
@@ -2279,6 +2399,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [5715c05726231, 50e6e6780ea4f, d120b7156bfa, 1f00adcc634f1, 4b73786921601]
 -----------------------------------------------------
 choice: 0
+t0: [80c4e82b72e46, c735ab9752f62, dfd69678d3cb6, b5e70e006ba7c, a94813e04720e]
 t1: [c4e82b72e59, 4735ab9752f63, 5fd69678d3cb7, 35e70e006ba7d, 294813e04720f]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [51d47f51b3b78, 5e32330fe2b60, 65dbe91d5280a, 41fea4673961d, 69190f2dbd3fd]
@@ -2298,6 +2419,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6c376d6f5bee0, 69518fa7c210c, 83431911af8e, 2468bc4999e11, a8a754c8923e]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [279125214822d, 2d5ce0b07bde6, 6f979cddca0e2, 372e876ccc3dd, 6aeb1566edb83]
 t2: [81dc331610a07, 88724bd18644d, 8c122e87f0196, d6c510c984a0c, f828532462399]
 t3: [1dc331610a1a, 8724bd18644e, c122e87f0197, 56c510c984a0d, 782853246239a]
@@ -2317,6 +2439,7 @@ t16: [5d93d71ff7d06, 566a411c91381, 3aaa71a73b4a, 5a0027ef1f711, 46ce12891e13]
 t17: [2051d30a7eb77, 14b50a69e6164, 25f70401beb5e, e82312ccebfa, 3777bd84f0107]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3f5c59eb028ff, 5695eb2c33d37, 3411f7fc82943, 62fb9da66280b, 111084f61fdf1]
 t2: [dd93d71ff7cf3, d66a411c91380, 83aaa71a73b49, da0027ef1f710, 846ce12891e12]
 t3: [226c28e0082e7, 2995bee36ec7e, 7c5558e58c4b5, 25ffd810e08ee, 7b931ed76e1ec]
@@ -2336,6 +2459,7 @@ t16: [4aac5444df0c6, 2267aea1b6f4b, 77acbd9b7fec7, 76f7357bb1b9f, 14ba8e6ac4663]
 t17: [3673293cf8e58, 60d35a678235e, 62e00c821002e, 48eada5dff4e, 5fb6cd0a5d156]
 -----------------------------------------------------
 choice: 0
+t0: [caac5444df0b3, a267aea1b6f4a, f7acbd9b7fec6, f6f7357bb1b9e, 94ba8e6ac4662]
 t1: [3553abbb20f27, 5d98515e490b4, 853426480138, 908ca844e460, 6b4571953b99c]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [1319ad860e32a, 3e594b30fb943, 3a3fe6fbdffa2, 76e2a4b440162, 409265eb45d53]
@@ -2355,6 +2479,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [47c92f1d44b4b, f4e5530cc35e, 5256b30270b77, 113f6f4f703d6, 1686eec657218]
 -----------------------------------------------------
 choice: 0
+t0: [c0296f802f9d5, e9937bde1882f, c11d741ef83bc, c6d48ee532255, 99447b0991e80]
 t1: [40296f802f9e8, 69937bde18830, 411d741ef83bd, 46d48ee532256, 19447b0991e81]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [706da1c576957, 6163559e67942, 5b5299fb1e911, 5d8121611f852, 52f2227351bcf]
@@ -2374,6 +2499,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [77ec3d2e61bbe, 382a7a7e103e3, 269f3d6f329df, 485d392280881, 28072487d6e92]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [102785a33c871, fab0b03df838, 32c185219ac41, 6f458dbafeefd, 2ff1b6f0522da]
 t2: [8f59d363769a0, 9ddc09ffd66f0, 91fda4e98d047, b4d97ab188b7b, ae4f0d9aad668]
 t3: [f59d363769b3, 1ddc09ffd66f1, 11fda4e98d048, 34d97ab188b7c, 2e4f0d9aad669]
@@ -2393,6 +2519,7 @@ t16: [2693f05b47c39, 51a5a85323ea0, 78dcd7930bc59, 454d86d062ee6, 3251419e8f235]
 t17: [4790b18f99165, 1c1007b3b43c9, 11c2785f4a3a7, 1164b536f6823, 6d64a0aa17371]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [70de9ce0cdd10, 47dff0989786c, 5c7b0f416b8b1, 5d36959212fb9, 2536beabd191d]
 t2: [a693f05b47c26, d1a5a85323e9f, f8dcd7930bc58, c54d86d062ee5, b251419e8f234]
 t3: [596c0fa4b83b4, 2e5a57acdc15f, 723286cf43a6, 3ab2792f9d119, 4daebe6170dca]
@@ -2412,6 +2539,7 @@ t16: [5f4ca8cc27f23, 7fdbd37ee7c6a, 2d2bbdc9d1d5, 46cca22f23019, 2d92a369685b2]
 t17: [76b76c7e7ab02, 4858e03b26322, 1ab737f1643d9, 423d902b4e771, 2b0cf459c2937]
 -----------------------------------------------------
 choice: 0
+t0: [df4ca8cc27f10, ffdbd37ee7c69, 82d2bbdc9d1d4, c6cca22f23018, ad92a369685b1]
 t1: [20b35733d80ca, 242c8118395, 7d2d442362e2a, 39335dd0dcfe6, 526d5c9697a4d]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [129127030a9e9, 6f4e3f89b39ba, 4a91901d3784c, 7b84dfa96311d, 29e6174c7ad90]
@@ -2431,6 +2559,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [597bc877b7b67, 768133131b742, c3315e86b3a9, 394bfb3378492, 8818ac168750]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4d086f109091f, 12fd99d9c917a, 6799d42f298ac, d6809990f6db, 6efcea7d2f15f]
 t2: [d65a67b666f82, c2894bb9f9ec2, ebdc9352f2964, 916097c155590, 8d58523ec8968]
 t3: [565a67b666f95, 42894bb9f9ec3, 6bdc9352f2965, 116097c155591, d58523ec8969]
@@ -2450,6 +2579,7 @@ t16: [6f0df6da4e6e4, 51c74f3200318, 411f2096ce86f, 7d3ecf9f464f4, 3bc414d56adde]
 t17: [4aec1bb6d9726, 59d3fcd583a13, 3bedf7778f06c, 239a1c0daa44f, 86c62b8f122b]
 -----------------------------------------------------
 choice: 0
+t0: [ef0df6da4e6d1, d1c74f3200317, c11f2096ce86e, fd3ecf9f464f3, bbc414d56addd]
 t1: [10f20925b1909, 2e38b0cdffce7, 3ee0df6931790, 2c13060b9b0b, 443beb2a95221]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [6a27c8924d1a1, 4c580654f8bd8, 8241110e1f26, 38cbc7e4ab761, 6f273a8e1dba9]
@@ -2469,6 +2599,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [11d607cb412f3, 7d241df0769e1, 5bab50ba52235, 295b7c0910762, 59d2e698edfce]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5c53f0697d9f4, 5b7c41f12c3d, 48a95e8b5bb94, 2d4907eddf13a, 4c5a32ce24063]
 t2: [cfc87b087dc90, cc26f7d5a1144, df384827481a3, b7ca0218b1d8f, f30add5c69a77]
 t3: [4fc87b087dca3, 4c26f7d5a1145, 5f384827481a4, 37ca0218b1d90, 730add5c69a78]
@@ -2488,6 +2619,7 @@ t16: [6c204c50c9b1a, 4695fd5905be1, 1b36c4c9c414a, ff571f8c1e9c, 245f30328cae7]
 t17: [57fe9f09dc054, 55bcb60693f74, 153b97f347b57, 3df9b5f111187, 7405eb03d6cda]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5002c1ec47f32, 548693f2d8116, 5588d01970950, 40c941dddcf1, 17f429f85264b]
 t2: [ec204c50c9b07, c695fd5905be0, 9b36c4c9c4149, 8ff571f8c1e9b, a45f30328cae6]
 t3: [13dfb3af364d3, 396a02a6fa41e, 64c93b363beb5, 700a8e073e163, 5ba0cfcd73518]
@@ -2507,6 +2639,7 @@ t16: [29d041c436013, 4168e5f6e877d, 1433f9d8c20ff, 7000bf150d331, 4fd052f044f70]
 t17: [17b4b096315fe, 60c607e939f7c, 37039eb96cf34, 6e155a7fc4072, 3f4c47b2c96b1]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [50969ed39d3f1, 3e73f02d8c107, 11f8c28d26196, 23d54b0077f1b, 167709a6d29c]
 t2: [a9d041c436000, c168e5f6e877c, 9433f9d8c20fe, f000bf150d330, cfd052f044f6f]
 t3: [562fbe3bc9fda, 3e971a0917882, 6bcc06273df00, fff40eaf2cce, 302fad0fbb08f]
@@ -2526,6 +2659,7 @@ t16: [2081d9edbef2f, 67cbf824a7dd6, 7cb3f54ea8225, 3f4d9f6d26167, 384fa00a9e751]
 t17: [c78708ce9221, 4d08da4ab9ef, 6199de0a911d6, 369e41afce98, 428f8c4a26ad2]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [670f1ee62db98, 765ee4b6a8c21, 3ccc43eaddc53, 792c37ca062ce, 7ae0e76bb2a5b]
 t2: [a081d9edbef1c, e7cbf824a7dd5, fcb3f54ea8224, bf4d9f6d26166, b84fa00a9e750]
 t3: [5f7e2612410be, 183407db58229, 34c0ab157dda, 40b26092d9e98, 47b05ff5618ae]
@@ -2545,6 +2679,7 @@ t16: [632d8ff0ea608, 650e9f474416a, 1d55cf7960f63, 6525f9dfc11f4, 57dcc1ba22fcb]
 t17: [1f4c4d7bbb9fc, 4511c5196fa8b, 3dfa64d984e27, 65735d49f1c3c, 103c4304c9ace]
 -----------------------------------------------------
 choice: 0
+t0: [e32d8ff0ea5f5, e50e9f4744169, 9d55cf7960f62, e525f9dfc11f3, d7dcc1ba22fca]
 t1: [1cd2700f159e5, 1af160b8bbe95, 62aa30869f09c, 1ada06203ee0b, 28233e45dd034]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4167650888bf5, 75dc75cd20ae9, 40b364cf63b0, 3519456c1c787, 5f8779f66ca62]
@@ -2564,6 +2699,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [2d0d904f4a27a, 21a686a540562, 7ea9941b069f9, 7205de05c039e, 60715b9cc085a]
 -----------------------------------------------------
 choice: 0
+t0: [abf9dc085e0f5, bb91725aa5b6b, 9172752bbf2a8, a32aaf7e87b19, d77f78c77be2e]
 t1: [2bf9dc085e108, 3b91725aa5b6c, 1172752bbf2a9, 232aaf7e87b1a, 577f78c77be2f]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [25e4df616bae6, 3cb2f2b57f53b, 2acd7c9f2c0d, 1bf443f47f8c2, 3f1d48c67ef4a]
@@ -2583,6 +2719,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [3852ac065f1af, 43af4d9d12315, 7f6bcb84cb5de, 27f4be8e49c7b, 6dd7aba3ba4df]
 -----------------------------------------------------
 choice: 0
+t0: [f7480eeb0674a, 8a0a33882adfd, d4dfbde314e98, bf69a7174a092, dde5633b81109]
 t1: [77480eeb0675d, a0a33882adfe, 54dfbde314e99, 3f69a7174a093, 5de5633b8110a]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [f5aa7f341c7c, 78a164c5db9d5, 12868f669442, 301682e36c708, 2450a8b88b641]
@@ -2602,6 +2739,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [ac162ad0e30a, 7171490320d6f, 2049ac253acc1, a32da7e7b401, 1b2df9e12f737]
 -----------------------------------------------------
 choice: 0
+t0: [96e9d965d32dd, 9847bc0b356f1, a51d5b7d3ddd8, b7380552c0d5d, b335052fae6f3]
 t1: [16e9d965d32f0, 1847bc0b356f2, 251d5b7d3ddd9, 37380552c0d5e, 3335052fae6f4]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [6a7d3aa5e39d9, 1d1d6df9be521, 3f6ca7b58a67c, 6b9a4b03097fd, 49a40c3da1191]
@@ -2621,6 +2759,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6d61af6b5f753, 6d2b46795206f, 59c58e6a56191, 2764346d35c08, 4e28b739def07]
 -----------------------------------------------------
 choice: 0
+t0: [f4db702fe19ec, 87249cb10d48c, b9025421cc60e, c3ed5b532dfd7, ccbc81535aae6]
 t1: [74db702fe19ff, 7249cb10d48d, 39025421cc60f, 43ed5b532dfd8, 4cbc81535aae7]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [253ca12941134, 25a9730d5bf20, 4c74e32b53cdc, 31379725947ee, 63ae918c421f1]
@@ -2640,6 +2779,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6c97e9390f225, 71ea7935f4b0a, 7e981d28dec2f, 5e8eb5dc7f2fe, 76209e45a3305]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [26d02d8de1b90, 1c2b0d94169ea, 2cfc5ae427a0, 42e2944701a02, 13bec374b99f4]
 t2: [dce5f918b1606, cc8262d59cc33, 80d463a168a8b, d2cc3060cce72, a97f66d498fd6]
 t3: [5ce5f918b1619, 4c8262d59cc34, d463a168a8c, 52cc3060cce73, 297f66d498fd7]
@@ -2659,6 +2799,7 @@ t16: [5d4e5ea924b0e, 42f5b754d649b, 1cfb01a093d24, 1625385a8ff98, 5b12881d3b59]
 t17: [2b8239682d1ce, 5c8d494b70bc0, 482e1dfcacb09, 5d25919f2fefa, 77d706108b4bf]
 -----------------------------------------------------
 choice: 0
+t0: [dd4e5ea924afb, c2f5b754d649a, 9cfb01a093d23, 9625385a8ff97, 85b12881d3b58]
 t1: [22b1a156db4df, 3d0a48ab29b64, 6304fe5f6c2db, 69dac7a570067, 7a4ed77e2c4a6]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [28fb8d2fa5c3e, 46e56d691e87f, 6fa3c406a69ec, 45b4dcc1a020a, 1051f3dee9680]
@@ -2678,6 +2819,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [15d004bd1b928, 61874dd24971c, 388760340c36f, 22919cc67a8f2, 65b1189771fed]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [545ff685c8d8a, 3cf1645b6d1c7, ef13f97e7920, 3adcc6730ae1b, 349dced11c025]
 t2: [940a901faa06c, cc1690514c104, b9ff7d56676e0, 894ab5380dfca, c0dc8540f958b]
 t3: [140a901faa07f, 4c1690514c105, 39ff7d56676e1, 94ab5380dfcb, 40dc8540f958c]
@@ -2697,6 +2839,7 @@ t16: [121b1d7bc8a7, 195866fec97a7, 6071888dd59ba, 5fb09f5bcc062, 1e024294d6910]
 t17: [6b97f393a20ea, 6d61fb0a7b8fe, 35b5d45c77bb6, 7e34c17ae1745, eac6a0160cf7]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [28d018d8bbe19, 253c09eb08e02, 1494574710892, 3967d0a3d175, 62a72bfd3e610]
 t2: [8121b1d7bc894, 995866fec97a6, e071888dd59b9, dfb09f5bcc061, 9e024294d690f]
 t3: [7ede4e2843746, 66a7990136858, 1f8e77722a645, 204f60a433f9d, 61fdbd6b296ef]
@@ -2716,6 +2859,7 @@ t16: [10c83b391c898, 5f86f67bad61, c186fcabd3b0, 14bf9c3b36fef, 1828a77865fca]
 t17: [ee413e0a5c55, 200d22bf613a4, 6a63b3eadcec4, 3eafc12ff0e60, 768daabced5ca]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [6237d83eb4730, 3fe5ba813d8b7, 2b38982a46277, 2a07da01e33e, 12e4aa862546b]
 t2: [90c83b391c885, 85f86f67bad60, 8c186fcabd3af, 94bf9c3b36fee, 9828a77865fc9]
 t3: [6f37c4c6e3755, 7a0790984529e, 73e7903542c4f, 6b4063c4c9010, 67d758879a035]
@@ -2735,6 +2879,7 @@ t16: [430cdf779d50, 67a7da895f362, 75adb885492f2, 5e2c83a380ba1, 70cb655b3aa5f]
 t17: [2b50bfe9cdf3d, 50d9adf9db826, 6ac3c465c5e30, 415c6477491ba, 303c522513d92]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [295e802c64173, 5e4ca40c48fb3, 2a7877347439e, 7d4737116dc8a, 1f875bb5d84da]
 t2: [8430cdf779d3d, e7a7da895f361, f5adb885492f1, de2c83a380ba0, f0cb655b3aa5e]
 t3: [7bcf32088629d, 18582576a0c9d, a52477ab6d0d, 21d37c5c7f45e, f349aa4c55a0]
@@ -2754,6 +2899,7 @@ t16: [6fe104327ac83, 1f3739cb80fc4, 74fbfad043360, 1b12da2bf3068, 17a4ea553de5f]
 t17: [2844db78482a2, 269aad640b5b5, 378f23fc6db35, 375206d07d693, e3a885f8fcf4]
 -----------------------------------------------------
 choice: 0
+t0: [efe104327ac70, 9f3739cb80fc3, f4fbfad04335f, 9b12da2bf3067, 97a4ea553de5e]
 t1: [101efbcd8536a, 60c8c6347f03b, b04052fbcc9f, 64ed25d40cf97, 685b15aac21a0]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2f76490f6faa9, 32caa537e9495, 10e1b80724995, 115bf25f052d9, 638aef40e0617]
@@ -2773,6 +2919,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [c261cd84f105, 2452a8e95a2f5, 7be0284d94a5e, 6e16fb90d0c95, 31a5aee4356f9]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [67b3c64f61de3, 375aae2d4ba15, 83faf64d6b43, 23d208de5e6d4, 1cb4a2379520c]
 t2: [f99799f9a74a2, cf4e02cedaab7, bc8d03cbcc7ac, aef262caf33b2, cd86b9425ca3e]
 t3: [799799f9a74b5, 4f4e02cedaab8, 3c8d03cbcc7ad, 2ef262caf33b3, 4d86b9425ca3f]
@@ -2792,6 +2939,7 @@ t16: [28c6165312ec, 4b65c1367c553, 3ff4007aa23e8, 476a74a531f4a, 3e94db2edd580]
 t17: [dd74b1e66fcd, 5d9f22305afdc, 6b92207ddb717, 79e825eeddb7, 3c4a3e6a36192]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [645169c332053, 44c1bb9f4a047, 28dbbf04491d0, 70c2fb4224490, 76b832b93cdb]
 t2: [828c6165312d9, cb65c1367c552, bff4007aa23e7, c76a74a531f49, be94db2edd57f]
 t3: [7d739e9aced01, 349a3ec983aac, 400bff855dc17, 38958b5ace0b5, 416b24d122a7f]
@@ -2811,6 +2959,7 @@ t16: [47dfb503d93fd, 5f558bfcdd2b2, 153e0b7af8b0c, b32ea44b6a97, 44abcaaf34feb]
 t17: [1369f7fbf5bd1, 5ca7ba01a7db1, 3107a19e9c4a9, 27e110678c225, 49f2d7cf8efa1]
 -----------------------------------------------------
 choice: 0
+t0: [c7dfb503d93ea, df558bfcdd2b1, 953e0b7af8b0b, 8b32ea44b6a96, c4abcaaf34fea]
 t1: [38204afc26bf0, 20aa740322d4d, 6ac1f485074f3, 74cd15bb49568, 3b543550cb014]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [592c100814838, 46b08bfcb049d, 1df0bcc2c76ac, 303ddf30e7bb5, 6c1a5060e20bd]
@@ -2830,6 +2979,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [669933ab1c9a6, 729e848833d60, 654f8efb5e57e, 13bddb6dfedad, 1ed8ec6adc5a5]
 -----------------------------------------------------
 choice: 0
+t0: [c8f0080e5f2c5, 9e7c312ca18c8, 92b4cc971f45f, 8968cfc3b6c7d, e17aa434edf01]
 t1: [48f0080e5f2d8, 1e7c312ca18c9, 12b4cc971f460, 968cfc3b6c7e, 617aa434edf02]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [32cd98a9c6ca1, 1ac2f6ef9853e, 3560e20943502, 58844924024a4, 424e272a474b5]
@@ -2849,6 +2999,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [4f22296b7c589, 4c7d57698a0f3, 65a719d0100ad, 2a18767ffeffc, 329ec3e37f4d5]
 -----------------------------------------------------
 choice: 0
+t0: [c99a54b83b7b1, decc81c2520da, 850224397f17e, d52065b84844c, d8de6a48d129a]
 t1: [499a54b83b7c4, 5ecc81c2520db, 50224397f17f, 552065b84844d, 58de6a48d129b]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [61bbad29074db, 6705512cebe18, 34b1cc5fdfea4, 2bcf130002006, 1ac2783901655]
@@ -2868,6 +3019,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [219a4a24c34fd, 61aaa289b25f2, 1331df3ac99e3, 49257bd130add, fa6ef982f600]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3ccb6bb6795f3, 3caabaec9b41b, 599c418a6cc38, 6db5085d9ea45, 60b220cfa13fe]
 t2: [94aea1003dc28, fb22f09e14d86, fbd84b8798efd, a58f5f1d4afa8, e983dafd98256]
 t3: [14aea1003dc3b, 7b22f09e14d87, 7bd84b8798efe, 258f5f1d4afa9, 6983dafd98257]
@@ -2887,6 +3039,7 @@ t16: [31e7314ccbcae, 1658d5ba2dec1, 2972e1dea33c4, 4a0760040e269, 631de43fa87a0]
 t17: [4e8c816c68571, 453b1c593fcb4, 6e19bd87380c9, d14dffab5a14, 77c4df2db1e84]
 -----------------------------------------------------
 choice: 0
+t0: [b1e7314ccbc9b, 9658d5ba2dec0, a972e1dea33c3, ca0760040e268, e31de43fa879f]
 t1: [4e18ceb33433f, 69a72a45d213e, 568d1e215cc3b, 35f89ffbf1d96, 1ce21bc05785f]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [62e6fd272f4f8, 7589c74d80696, 23cc84f18fe6c, 65d6400a94bd6, 107641a49c2f7]
@@ -2906,6 +3059,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [114fd0a606214, 1848f3d36bd, d667f7de4612, 171fbe7e05862, 79fe46546a2f6]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5d605eb3f3bb2, 7fcf6e1859285, 65330104373db, 51c08303f4f3b, c0373572ba13]
 t2: [ccac88ddb93d5, 9bf765e3468b8, a59fe872e270e, fcea61710069d, 90ae5a2ee7192]
 t3: [4cac88ddb93e8, 1bf765e3468b9, 259fe872e270f, 7cea61710069e, 10ae5a2ee7193]
@@ -2925,6 +3079,7 @@ t16: [cccc5807bd43, 49e4fbb9ee531, 14adef5654cb4, 72464b5066ce1, 59d6b8e828531]
 t17: [d99401518f73, 5b6f7233f6da2, 5702e2089a545, 86956f8a1794, 1b8860cfd4568]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [64cd7fd5ce107, 49211b98124bb, 51fa3beecb574, 6f2d520ebd0d6, 48ef3e605752f]
 t2: [8cccc5807bd30, c9e4fbb9ee530, 94adef5654cb3, f2464b5066ce0, d9d6b8e828530]
 t3: [73333a7f842aa, 361b044611ace, 6b5210a9ab34b, db9b4af9931e, 26294717d7ace]
@@ -2944,6 +3099,7 @@ t16: [3662355d8e3fe, 57417eb5e7bbe, 79097ad11d0a0, 2d1a70a456db, 20fb3b935aeeb]
 t17: [1880a0c7cf1b6, 3bfef16c17b2, 5b366da49b227, 48882a87610b3, 205aa6cd45877]
 -----------------------------------------------------
 choice: 0
+t0: [b662355d8e3eb, d7417eb5e7bbd, f9097ad11d09f, 82d1a70a456da, a0fb3b935aeea]
 t1: [499dcaa271bef, 28be814a18441, 6f6852ee2f5f, 7d2e58f5ba924, 5f04c46ca5114]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4efebe7061c81, 788021d27d09b, 499324b6c9bb1, 6eefaaf13de98, 3f4ab26574f10]
@@ -2963,6 +3119,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6da3257c02a91, 725370b4d1263, 4daaf478af69d, 2fb57b01d61d8, 24ae1124246ff]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [24b9b507faacb, 1b591e965db38, 64aa170ea12c4, 209509fc53c4e, 36a3ddb7b7201]
 t2: [da7f7f4b44b81, c3c4a8c63ef40, 934ecc79ac7d5, a635239023642, a88e989049325]
 t3: [5a7f7f4b44b94, 43c4a8c63ef41, 134ecc79ac7d6, 2635239023643, 288e989049326]
@@ -2982,6 +3139,7 @@ t16: [60bc70e1f21a1, 30f55045ee56e, 6d6d08ceeb41e, 4bfb54550a8aa, 7a89a8e0253a2]
 t17: [7b003781ad414, 10f141521829, 6df7517a02e63, 3036863ce4734, 529d1cc93b87e]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [9ff90fca57b2, 7de1d7d5bcfac, 24115d0bfa339, 1f92f38637196, 5ac5c66d88f03]
 t2: [e0bc70e1f218e, b0f55045ee56d, ed6d08ceeb41d, cbfb54550a8a9, fa89a8e0253a1]
 t3: [1f438f1e0de4c, 4f0aafba11a91, 1292f73114be1, 3404abaaf5755, 576571fdac5d]
@@ -3001,6 +3159,7 @@ t16: [65e9639f45266, 5762bf55550d9, 4b5197c7e7df6, 176646fd0f95f, cd39e2f2dff7]
 t17: [13271008214e, 77eb198a7fa51, 5185711d36612, 76a23ddba6c8b, 5032a67451dcf]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [7d9b1dfefbd3e, 1029cceb00b5d, 5cf51dc5933da, 12bb8448b26e8, 5f9ab3175c460]
 t2: [e5e9639f45253, d762bf55550d8, cb5197c7e7df5, 976646fd0f95e, 8cd39e2f2dff6]
 t3: [1a169c60bad87, 289d40aaaaf26, 34ae683818209, 6899b902f06a0, 732c61d0d2008]
@@ -3020,6 +3179,7 @@ t16: [44f087d84e67a, 33ded734bd64c, 345151726e591, 11e6e7b9be575, 1d440df33286c]
 t17: [1d771b8d7b901, 55f79ca9bc749, 354dc767a0b2c, 48262a09c5734, 1ada3d4947173]
 -----------------------------------------------------
 choice: 0
+t0: [c4f087d84e667, b3ded734bd64b, b45151726e590, 91e6e7b9be574, 9d440df33286b]
 t1: [3b0f7827b1973, 4c2128cb429b3, 4baeae8d91a6e, 6e19184641a8a, 62bbf20ccd793]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4511c8e508deb, 5410c6ac8716d, 15647130be9a6, 6fb3abec75197, 4a4b856d71d18]
@@ -3039,6 +3199,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [5cfe36ff4bb58, 3d1715fc4e485, 6d207e3bb3a48, 55ac3320f13b2, 1c1c951d3b436]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [460392016893d, 5d1d407636f4, 25bf038898b6f, 54a799be1d89a, 47c6d5c589792]
 t2: [f2c5586b9d58c, ef4bd5619b544, b990bac6829bb, d4724ea139d2c, 8e6a37d8d1603]
 t3: [72c5586b9d59f, 6f4bd5619b545, 3990bac6829bc, 54724ea139d2d, e6a37d8d1604]
@@ -3058,6 +3219,7 @@ t16: [2a275ae8b8c0, 7d8508fd245dc, 15eb212e43033, 39f2b24330459, 25f5fd422ba6d]
 t17: [365dead5af308, 6982e350c943, 2dd8755994aba, 57b12a4085fd5, 10521c60c1667]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [13442a54a19dd, 72cfa395e6d79, 244f154cd6a8b, 509dab7ef4055, 5f5bc73e7d330]
 t2: [82a275ae8b8ad, fd8508fd245db, 95eb212e43032, b9f2b24330458, a5f5fd422ba6c]
 t3: [7d5d8a517472d, 27af702dba23, 6a14ded1bcfcc, 460d4dbccfba6, 5a0a02bdd4592]
@@ -3077,6 +3239,7 @@ t16: [5cb03af47f5a3, 1d82c474cbc1d, a55b8617be23, 4e2e7ed4337a2, 126a499711758]
 t17: [433e3eac19bfb, 7dc90f4c390c7, 76960815ded82, 65caa6508bb33, 651f855b8a4b8]
 -----------------------------------------------------
 choice: 0
+t0: [dcb03af47f590, 9d82c474cbc1c, 8a55b8617be22, ce2e7ed4337a1, 926a499711757]
 t1: [234fc50b80a4a, 627d3b8b343e2, 75aa479e841dc, 31d1812bcc85d, 6d95b668ee8a7]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [798382a7cc7e4, 46de1678de70, 12d3efd4424fa, 346ab35ee8998, 35c0f548eb68e]
@@ -3096,6 +3259,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6eb15a778df16, 1dffd85ee01ec, 7cdfcf23e38b1, 32b93c6c3fbca, 37d4b88414c05]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [229d4b10e41c1, 44004f423fc26, 64061b838e9d, 1a8d87278086a, 10568ef7d67f5]
 t2: [8dc2b011c56a8, e80282ee53bb4, c826e372a8cfb, f4804f977d3d2, e308804b8a1f5]
 t3: [dc2b011c56bb, 680282ee53bb5, 4826e372a8cfc, 74804f977d3d3, 6308804b8a1f6]
@@ -3115,6 +3279,7 @@ t16: [7cab438e4c0f5, 6228a07088cb, 2be75d05aaa07, 578b2136a45be, 5891c75eac774]
 t17: [4b6d81e0a931b, 587cd8288ece9, 145a04d1ca40, 664e736db568e, 6cb12a6db589a]
 -----------------------------------------------------
 choice: 0
+t0: [fcab438e4c0e2, 86228a07088ca, abe75d05aaa06, d78b2136a45bd, d891c75eac773]
 t1: [354bc71b3ef8, 79dd75f8f7734, 5418a2fa555f8, 2874dec95ba41, 276e38a15388b]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [6924fc3ead9a4, 4f064faee262c, 7d74bf65c6b7e, 33631924952e3, 269dab2494eca]
@@ -3134,6 +3299,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6a661f6711c59, 60ad2e5063538, 5c6b8feebde4b, 48698a7a6c86, 693db7e37c28b]
 -----------------------------------------------------
 choice: 0
+t0: [e050dbb7c6770, dd80793ca4e58, dfcdb8ec1e700, d9c0b92282a76, a7c35d0624098]
 t1: [6050dbb7c6783, 5d80793ca4e59, 5fcdb8ec1e701, 59c0b92282a77, 27c35d0624099]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2b33c131dc728, 3ea5a35f3958e, 4728e02284368, 76f2ceb0b26f2, 2d84903907ae9]
@@ -3153,6 +3319,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [f04e1b5ba086, 71c55f91907b, 34c993819bce0, 2de38512c3340, c990265bccd1]
 -----------------------------------------------------
 choice: 0
+t0: [a6327a8b3ad4a, a97d5af889a2a, e73abee290e27, c7da6898238a0, affdd941ba9d5]
 t1: [26327a8b3ad5d, 297d5af889a2b, 673abee290e28, 47da6898238a1, 2ffdd941ba9d6]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [61f63c948bee1, 71c7540dcdf09, 166cd8fcc863f, 2438f5da7997f, 66cdfb348665d]
@@ -3172,6 +3339,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [f5de48a1c1dd, 20bb0b0e91ca0, 38f8cdb9496e0, c6e9efc23c9d, 13e39ab307992]
 -----------------------------------------------------
 choice: 0
+t0: [bdecf942b82fd, a24d3ee8ef1d1, c9ed4eed5fb1d, f029bd23d8106, f4821fe37f314]
 t1: [3decf942b8310, 224d3ee8ef1d2, 49ed4eed5fb1e, 7029bd23d8107, 74821fe37f315]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [614436ebc7c33, 3e89e9e2dc6bf, e0e648d6d23f, 6722c207b86c5, 5838ca99f0cdb]
@@ -3191,6 +3359,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [30949a3b28ff0, 2d3ddb9dff388, 35940a21f0528, 52ce23aadcc07, 6e0f424c45f8e]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1ed6cb89adffa, 258448c4018ef, 14d7ebbc1f5af, 5a63b8aa467f1, 23e17b67740e2]
 t2: [cbf6a6f31bb99, cd275d9b127ee, cc81dfa9a8b19, a61b3b62a7560, 81c3424d69c54]
 t3: [4bf6a6f31bbac, 4d275d9b127ef, 4c81dfa9a8b1a, 261b3b62a7561, 1c3424d69c55]
@@ -3210,6 +3379,7 @@ t16: [1742ef9ff23b, d240f3ccef9d, 41baefb4cd342, e793badc532b, 3607f31550cf3]
 t17: [5ce1770c0fb26, 34be38880cdb2, 7899c787ee3e3, 369f114ab25fe, 4136bd60f5aa8]
 -----------------------------------------------------
 choice: 0
+t0: [81742ef9ff228, 8d240f3ccef9c, c1baefb4cd341, 8e793badc532a, b607f31550cf2]
 t1: [7e8bd10600db2, 72dbf0c331062, 3e45104b32cbd, 7186c4523acd4, 49f80ceaaf30c]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [463d11e7e098e, 16838eefe649a, ecc70f023839, 12c1dd6a9b402, 7d92853e14aaf]
@@ -3229,6 +3399,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [180f74e9a4800, 2ccd4bde278c8, 6c071bca95ff5, 1bbc9258db2a, 634ee63f72ca7]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4fe1162cb6fda, 26656843b0e6f, 27f1c86ad4015, 7c886db4e49aa, 396233811a6b1]
 t2: [a2462bdf75b26, c0aa187515545, e09babe7a499b, fd2ea0887d14e, d0061bdfe8f66]
 t3: [22462bdf75b39, 40aa187515546, 609babe7a499c, 7d2ea0887d14f, 50061bdfe8f67]
@@ -3248,6 +3419,7 @@ t16: [250da63d47778, 4f8a1fe62fd86, 1c98b688543bd, 50069d62c79be, 69b2e59a31824]
 t17: [16c6c4570071a, 11d5793879f7c, 2e513b89b51a4, 41528e67c6378, 17d7168d3a243]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [52727751ff1b9, 5c550d8f0c107, 235d88ec95cb7, 7d5ae3307390f, 5051d2e58bb78]
 t2: [a50da63d47765, cf8a1fe62fd85, 9c98b688543bc, d0069d62c79bd, e9b2e59a31823]
 t3: [5af259c2b8875, 3075e019d0279, 63674977abc42, 2ff9629d38641, 164d1a65ce7db]
@@ -3267,6 +3439,7 @@ t16: [35fdad926d700, 8b0a0af0dff9, 7ff8ab515e48e, 557358fbd87a2, 5d80721e5923c]
 t17: [2dbcc95155225, 220300191c984, 2b853f2ff1084, 880f2782fc20, 3b84f6766c78f]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [24866d5d55ba3, 3bf9ffcdc6cf7, 28f581a01def7, 6efe1b0fa07bf, 8f61313270e1]
 t2: [b5fdad926d6ed, 88b0a0af0dff8, fff8ab515e48d, d57358fbd87a1, dd80721e5923b]
 t3: [4a02526d928ed, 774f5f50f2006, 754aea1b71, 2a8ca7042785d, 227f8de1a6dc3]
@@ -3286,6 +3459,7 @@ t16: [7985a67ecb8a6, 4b953811d6511, 7f57bd15d7871, 10d42ba9491e8, 4121e56824c53]
 t17: [7277d6f7b378e, 625c5ab6aa02e, 202928e7350e9, 75da3cb82b543, 212ec0acd3a5a]
 -----------------------------------------------------
 choice: 0
+t0: [f985a67ecb893, cb953811d6510, ff57bd15d7870, 90d42ba9491e7, c121e56824c52]
 t1: [67a598134747, 346ac7ee29aee, a842ea2878e, 6f2bd456b6e17, 3ede1a97db3ac]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [1b105210990d1, 3b474a92abfa2, 3fadae3195e2c, 144b868fa9579, 3da27ea658b4a]
@@ -3305,6 +3479,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [106ae173a0c2, 161cf2ce8f8cc, 23aaa6459f7d, 2192943a786fb, 47f2f48ba20d8]
 -----------------------------------------------------
 choice: 0
+t0: [cb620b1aec921, c5eef21692430, fd7a19fca0afa, 9898c114898b9, f5fb762c14f5b]
 t1: [4b620b1aec934, 45eef21692431, 7d7a19fca0afb, 1898c114898ba, 75fb762c14f5c]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [7df2a3d18be56, 53c61a62e0e67, 7b8aab374c105, 3cdad78b0f209, 701a16e8bbe4f]
@@ -3324,6 +3499,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [90424657c2ca, ef0da11c6e49, 377dd0366b756, 4d0e107f6fd39, 33099f726304e]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [6df7b73507a59, 621e4bdc7236d, 11045f9329153, 65e3df012058d, 19ecc11b39f62]
 t2: [99b937cda0dc3, 9f5ecc17e962a, b1a960a938606, ff067fb1da4cc, ca1be2dbea76b]
 t3: [19b937cda0dd6, 1f5ecc17e962b, 31a960a938607, 7f067fb1da4cd, 4a1be2dbea76c]
@@ -3343,6 +3519,7 @@ t16: [17d877d5ab490, 39de0b2a746c1, 803024eba5ff, 56de96123c77e, f6a82fb62d7a]
 t17: [338a50852dd2, 4d3fc4f4b676b, 10366671b7d14, 307503281a7e5, 278907d76c318]
 -----------------------------------------------------
 choice: 0
+t0: [97d877d5ab47d, b9de0b2a746c0, 8803024eba5fe, d6de96123c77d, 8f6a82fb62d79]
 t1: [6827882a54b5d, 4621f4d58b93e, 77fcfdb145a00, 292169edc3881, 70957d049d285]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [798eb5ef5a449, 6580761693129, 5f93331c905d6, 1f15f9afcb035, 30edf051279cf]
@@ -3362,6 +3539,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7d4df3d2d4edc, 67006c5d89227, 502db37da09f6, 59657c96141df, 6aa23baca372d]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [564185a56222, 31ff2744edbb0, 5fa49904bec12, 4d3506d3d7c40, 2abb88a6b91a4]
 t2: [e356721043ee9, f4cf1d8434b16, f0616ea977082, ddb887ba1b00f, cfd529febba5a]
 t3: [6356721043efc, 74cf1d8434b17, 70616ea977083, 5db887ba1b010, 4fd529febba5b]
@@ -3381,6 +3559,7 @@ t16: [50eb06f8b0f77, 13a71294ed788, 5dcb89b9126b7, 72fabc6190344, f18f24064eb]
 t17: [61b38479dee19, 6c03fad7f405b, 34b5b793edc2a, 15b961f050433, 53a1f32d377f7]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3c98f70c423a8, 27f80a5017f48, 169490d8247aa, 548d3c1f5f799, 58bc19a591011]
 t2: [d0eb06f8b0f64, 93a71294ed787, ddcb89b9126b6, f2fabc6190343, 80f18f24064ea]
 t3: [2f14f9074f076, 6c58ed6b12877, 22347646ed948, d05439e6fcbb, 7f0e70dbf9b14]
@@ -3400,6 +3579,7 @@ t16: [50bc42ad7a5cf, 6775ad3fd796d, 1a281aea41af0, 53396db09b735, 701d0031fe187]
 t17: [4584efc9b0c7a, 70871b0f493ad, 3627d429306fd, 390354612c84b, 90915568a4a9]
 -----------------------------------------------------
 choice: 0
+t0: [d0bc42ad7a5bc, e775ad3fd796c, 9a281aea41aef, d3396db09b734, f01d0031fe186]
 t1: [2f43bd5285a1e, 188a52c028692, 65d7e515be50f, 2cc6924f648ca, fe2ffce01e78]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [74f6206c9e6f9, 1ef1c9e16d8a4, 13b057ad9f204, df9573da6f69, 6dedd552eb6ad]
@@ -3419,6 +3599,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [56fcdc8e1f801, 51ce0b7dc5745, 6cfd3554eb773, 328e6af89cf81, 5ddf0667817c]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [520646e3c0feb, 5c63e90475174, 2605955629118, 1ae32a0ec60fc, 74441f330fd07]
 t2: [a9081a588a51f, a521defd81275, 8d701b0e9f760, e6b9929eb8e42, fb7fb8a142421]
 t3: [29081a588a532, 2521defd81276, d701b0e9f761, 66b9929eb8e43, 7b7fb8a142422]
@@ -3438,6 +3619,7 @@ t16: [1ac38d2f72f74, 7de340479dd4a, 3cb2d2b73d4a4, 7158069455165, a06d139c13f4]
 t17: [2d291cdcf5002, 806fccc7151a, 560a7751c04ff, 62c80887b7273, 586757817f231]
 -----------------------------------------------------
 choice: 0
+t0: [9ac38d2f72f61, fde340479dd49, bcb2d2b73d4a3, f158069455164, 8a06d139c13f3]
 t1: [653c72d08d079, 21cbfb8622b5, 434d2d48c2b5b, ea7f96baae9a, 75f92ec63ec0b]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [25adc64615fd6, 6ff206671d5cb, 53eb115c7f601, 3a6feef091b18, 4f3150fd01b9c]
@@ -3457,6 +3639,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6bb011daf5087, 1f0d65df49433, 69e7cc8b872a, 1026edab2d634, 60f47f3f79a1a]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [289fdc4a15ecc, 41e534416d798, 72c3066e8f1ab, 5fb224a9a5397, 3e1701810cbcb]
 t2: [843eb94a1cd2a, c15dc324cf1a4, bacda97744910, 9a66f70823f12, b3e2ecc8d1e23]
 t3: [43eb94a1cd3d, 415dc324cf1a5, 3acda97744911, 1a66f70823f13, 33e2ecc8d1e24]
@@ -3476,6 +3659,7 @@ t16: [4488c8f67ae66, 58ede5596e1ff, 3df34ef6ac990, 19fe4158dfa, 67f45676173e2]
 t17: [6c3b76b498546, 38bc5f7fd9061, 3c069cda78268, 6351a5d6ca3ca, 10afcd2be056f]
 -----------------------------------------------------
 choice: 0
+t0: [c488c8f67ae53, d8ede5596e1fe, bdf34ef6ac98f, 8019fe4158df9, e7f45676173e1]
 t1: [3b77370985187, 27121aa691e00, 420cb1095366f, 7fe601bea7205, 180ba989e8c1d]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [27891296cf561, e8741004df3c, 7f2c64b0fb2f, 395cb4526b86b, 5ea065a83f520]
@@ -3495,6 +3679,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [342e62d405a4c, 7cfcd7b329711, 5f948cde363d4, 4887f0cd02839, 6d6ba55dd23fe]
 -----------------------------------------------------
 choice: 0
+t0: [cd314e4af095d, e28eda480dad3, ecb9c4dfb5330, b0ee25927355d, 87750a059e2a3]
 t1: [4d314e4af0970, 628eda480dad4, 6cb9c4dfb5331, 30ee25927355e, 7750a059e2a4]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [17a33a57f4b42, 6065099ad1dd, 40d6e64393856, 6ef01e65faf8c, 2528b5445b802]
@@ -3514,6 +3699,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [5afe3d25e9198, 5015f5c4ab068, 7a9ea11f7bd58, 4df51e89b2412, 46665668bec99]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4a0385b42dcaa, 5fd41476a9f2e, ac2bdc10854e, 6415c2ec9b7da, 7333532e826cc]
 t2: [8c2593e6cb916, c780a63739697, d88ccd15a5af0, c40b4367f70ee, e7cd65fec0441]
 t3: [c2593e6cb929, 4780a63739698, 588ccd15a5af1, 440b4367f70ef, 67cd65fec0442]
@@ -3533,6 +3719,7 @@ t16: [ac0e64b49643, 26b1475a74ca2, 1c4185ca37efe, 75c01e8ef5a2e, ad3e836f1063]
 t17: [64fcd40e5ce15, 7995d496c6499, 1acd9c7fad26f, 1a16eaa33951c, 6967724e2a9e5]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [360657e3463b0, cd456d2736cc, 4a64c700a5b20, 4bd22ab98d5c7, 2d311b63aac35]
 t2: [8ac0e64b49630, a6b1475a74ca1, 9c4185ca37efd, f5c01e8ef5a2d, 8ad3e836f1062]
 t3: [753f19b4b69aa, 594eb8a58b35d, 63be7a35c8101, a3fe1710a5d1, 752c17c90ef9c]
@@ -3552,6 +3739,7 @@ t16: [5c4c36a8e2d54, 662f4ee8bf154, 7e3ddf288e4fa, 5a8bc96ca85da, 2ef19f633f062]
 t17: [4a1e076116f4b, 4e65614bca83c, 7511145d4bbef, 34e9b2714e04b, 79e64daed5b08]
 -----------------------------------------------------
 choice: 0
+t0: [dc4c36a8e2d41, e62f4ee8bf153, fe3ddf288e4f9, da8bc96ca85d9, aef19f633f061]
 t1: [23b3c9571d299, 19d0b11740eab, 1c220d771b05, 2574369357a25, 510e609cc0f9d]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [6bc3f13dd2144, 63353d686af86, 15ddd74568820, 162c9b1d63f68, c3364a2549ef]
@@ -3571,6 +3759,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [5fd615a19ff75, 44229818f2961, 1996f1d0ffadb, 15ad2d55141f3, 26a859fd56441]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4053d4bcc0103, 77bacfce1ad3c, 4cd21c5e00a48, 54a5a555d7c19, 32af4c055377d]
 t2: [e1db4b85d3a38, cd731dd741230, c62cc378064df, 912779fafc6e5, 9ee61d3dedcd4]
 t3: [61db4b85d3a4b, 4d731dd741231, 462cc378064e0, 112779fafc6e6, 1ee61d3dedcd5]
@@ -3590,6 +3779,7 @@ t16: [301132ae9aceb, 338cc452c9308, ee288c7f4036, 2651d8a3bdc56, 212c164594058]
 t17: [6e0296bed5e56, 4df17935a13da, 423811017274, 3bda715039e3f, 1a57ce994b3e4]
 -----------------------------------------------------
 choice: 0
+t0: [b01132ae9acd8, b38cc452c9307, 8ee288c7f4035, a651d8a3bdc55, a12c164594057]
 t1: [4feecd5165302, 4c733bad36cf7, 711d77380bfc9, 59ae275c423a9, 5ed3e9ba6bfa7]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [23fad28254341, 641d0d94bd84a, 77b8fddfd1b16, 84b1d5f8c381, 4b5062cd69837]
@@ -3609,6 +3799,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [1aefae2271bf6, 6a0e04f208aad, 19e472588604a, 6ba71642561ba, 776d8cd3d8680]
 -----------------------------------------------------
 choice: 0
+t0: [e7969a5bbe803, d1b4ba4dd56e2, 8f40b108e1d94, dfe9f9a1fde9a, b09a34c509bfb]
 t1: [67969a5bbe816, 51b4ba4dd56e3, f40b108e1d95, 5fe9f9a1fde9b, 309a34c509bfc]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4a20a3bb1c7ee, 2be3f61beeaa5, 4c371b4ef3f6a, 28b1d37b53c8b, 1124e6584f2fe]
@@ -3628,6 +3819,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7d95a2036966e, 5f69ccace448, 659d16c4aadbf, 2b6f54b14a967, 5014c8232a275]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4d4bbf92d2fe, 7412c66a6376e, 34c5d276aa481, 2921569d6ad30, 5fd66fb9abb15]
 t2: [cbce9201b7161, c3eaa9e3ef97d, d38c5571365a7, ef23df4f82d00, d7d81204ac2d0]
 t3: [4bce9201b7174, 43eaa9e3ef97e, 538c5571365a8, 6f23df4f82d01, 57d81204ac2d1]
@@ -3647,6 +3839,7 @@ t16: [467c36017e09, 339689e99fa8c, 5f4ac5ac5d2d2, 57b5ed5ab1d2d, 63e3d72875eb1]
 t17: [42a37f9fb944e, 27800f34462e9, 7d38d37e5291c, 77af75d3e81a9, 75dc601531a5d]
 -----------------------------------------------------
 choice: 0
+t0: [8467c36017df6, b39689e99fa8b, df4ac5ac5d2d1, d7b5ed5ab1d2c, e3e3d72875eb0]
 t1: [7b983c9fe81e4, 4c69761660573, 20b53a53a2d2d, 284a12a54e2d2, 1c1c28d78a14e]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [7ab900c08d73e, 30ffe19773a2c, 58e59035adc7, 10a114582fcac, 14473fd59cb44]
@@ -3666,6 +3859,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6959780262e9c, 2c202a8d8e737, 57d72e86b0bec, 110c1787fd9a2, 5c9ab049e69b0]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [2d4d0ffb3a2a2, 27bfaae4e3190, 5051a2f29e827, 5de7d0f004cba, 46ca9f6c32c9f]
 t2: [f7cf98898821d, b4d55987c4ab7, bae9a30dd01a3, b48af9fb2452e, c802ea1cdd853]
 t3: [77cf988988230, 34d55987c4ab8, 3ae9a30dd01a4, 348af9fb2452f, 4802ea1cdd854]
@@ -3685,6 +3879,7 @@ t16: [4ed3bd7228290, 750284e38e640, 58dda7647f0a7, 4a3d155b67981, 304d7fa9f7ff3]
 t17: [30113f3d042e1, 72733a60f8fb7, 357772d437211, 6410dfd35f05a, 66fcf99b18968]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1fdd8185f7a18, 1b198b3e0e091, 15111a5791bdc, 37de405941f4b, 32060cc9ced2e]
 t2: [ced3bd722827d, f50284e38e63f, d8dda7647f0a6, ca3d155b67980, b04d7fa9f7ff2]
 t3: [312c428dd7d5d, afd7b1c719bf, 2722589b80f58, 35c2eaa49867e, 4fb280560800c]
@@ -3704,6 +3899,7 @@ t16: [4f1ee2c3fe02b, 701ac0d57ff19, 7dce541ca82ad, 6704000d276c2, 582376dbbada8]
 t17: [71ea56a6632ae, 44f6abe8de3bb, db07379cb904, 4e9519bc4ff36, 40dfe7b333f61]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1c2b52b339a7e, 7612a82e43888, 649f190c68df6, 62d5cc8760193, 7e4030999813c]
 t2: [cf1ee2c3fe018, f01ac0d57ff18, fdce541ca82ac, e704000d276c1, d82376dbbada7]
 t3: [30e11d3c01fc2, fe53f2a800e6, 231abe357d52, 18fbfff2d893d, 27dc892445257]
@@ -3723,6 +3919,7 @@ t16: [320bf703d4eeb, 6da9c0b4917b0, 3e66d5b6a20a0, b068ca9867f1, 79e93a55d54dd]
 t17: [5855a51e54d9d, 5a086c7080227, 121a01ec60a36, 5478d679b37d6, 653621ae03848]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4f54b5c3564a0, 4bef271effbb0, 5bcbfc273eb92, 570e530c99053, 3593bca3f8f6e]
 t2: [b20bf703d4ed8, eda9c0b4917af, be66d5b6a209f, 8b068ca9867f0, f9e93a55d54dc]
 t3: [4df408fc2b102, 12563f4b6e84f, 41992a495df5f, 74f973567980e, 616c5aa2ab22]
@@ -3742,6 +3939,7 @@ t16: [19f9000492889, 18c978e6b8d78, 64dd7e03e57dc, 62f6f1db49c0e, 17c52ad48ad12]
 t17: [710a44cebcd52, a709d1b50419, 1bcd375dfbd79, 2ea72713c5d88, 68f09bcc45eae]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1deb766286536, 6b1ec5c95f7cc, 486591440850d, 22b1b1d8744ef, 2e1ec867742a3]
 t2: [99f9000492876, 98c978e6b8d77, e4dd7e03e57db, e2f6f1db49c0d, 97c52ad48ad11]
 t3: [6606fffb6d764, 6736871947287, 1b2281fc1a823, 1d090e24b63f1, 683ad52b752ed]
@@ -3761,6 +3959,7 @@ t16: [41f1b65707e38, 50b78982b7b36, 122742ee0e3b6, 2d50041c657c6, 61284a2eae8c4]
 t17: [7b956733aea56, 27042782a8da, 536431670bee6, 3de976489f98, 2921298f2202c]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [8d53198a2b41, 7b1f7b0faae4a, 59379d31e8233, 7842d136ec0ce, 2dbdace1bbfa7]
 t2: [c1f1b65707e25, d0b78982b7b35, 922742ee0e3b5, ad50041c657c5, e1284a2eae8c3]
 t3: [3e0e49a8f81b5, 2f48767d484c9, 6dd8bd11f1c49, 52affbe39a839, 1ed7b5d15173b]
@@ -3780,6 +3979,7 @@ t16: [54f9e44562193, 7d118ee8f13d, 3162342493515, 2115759cc7114, 738a7adee4dfe]
 t17: [72337b2cd41ba, 2be4fd10cddc1, 2a9c72611c986, 160c0a68070ee, ee94fcb8994a]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1b9909a657c79, 283605de6447c, 2ac71b3dc6cf3, 53e7eb2ff1e23, 622d6068ecd6b]
 t2: [d4f9e44562180, 87d118ee8f13c, b162342493514, a115759cc7113, f38a7adee4dfd]
 t3: [2b061bba9de5a, 782ee71170ec2, 4e9dcbdb6caea, 5eea8a6338eeb, c7585211b201]
@@ -3799,6 +3999,7 @@ t16: [3d3f3fb666b8e, 4002755bb5f8c, 5f7f16a968bc, 35d5bed039c74, 6ec4041c6e129]
 t17: [237e9958ed717, 3216f4dfc31aa, 56e2515756225, 5f91742d32c36, 6b19fe95c1274]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3902cd4e251ac, 1bd2164079cab, 523b5d5153bb5, 40dd17a59a792, 29cc02d47db16]
 t2: [bd3f3fb666b7b, c002755bb5f8b, 85f7f16a968bb, b5d5bed039c73, eec4041c6e128]
 t3: [42c0c0499945f, 3ffd8aa44a073, 7a080e9569743, 4a2a412fc638b, 113bfbe391ed6]
@@ -3818,6 +4019,7 @@ t16: [734e1f1ae1a76, 3d585788dfb5e, 58a39444ffd35, 6e219ea1b5f10, 74ca51f5640f9]
 t17: [565ffc91eeba7, a6c08a3bda1d, 69e48c4e8b1df, 1c3c800c6e1b6, 57bceff41f2cf]
 -----------------------------------------------------
 choice: 0
+t0: [f34e1f1ae1a63, bd585788dfb5d, d8a39444ffd34, ee219ea1b5f0f, f4ca51f5640f8]
 t1: [cb1e0e51e577, 42a7a877204a1, 275c6bbb002ca, 11de615e4a0ef, b35ae0a9bf06]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [534006dc2288c, 6b27eeb884bc4, 2c36e762e9c41, 4786ffe723c92, 50862017c1a61]
@@ -3837,6 +4039,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [2cc4edf77b612, 3c68489e85df1, 254a365049282, c35179ef83c8, 890c0191a482]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [26762411093c9, 72f6ec2f441d, 356b935f6dafb, 6795d0c20f86f, 6ede7fcdcb6fb]
 t2: [b4e2b58b74ef4, c183b1c615e4a, d2511108f5306, ffe43ac5b2bca, a825e9ea2420b]
 t3: [34e2b58b74f07, 4183b1c615e4b, 52511108f5307, 7fe43ac5b2bcb, 2825e9ea2420c]
@@ -3856,6 +4059,7 @@ t16: [1cfa2ea004f35, 44e41636b4730, 21f74ec32a42a, 43eb322eb0c02, d5446ce11692]
 t17: [32381e8d4d098, 441c6e3596a50, 67a84afa0f5db, 76b6c6db531ab, 4dfcbe8a6563d]
 -----------------------------------------------------
 choice: 0
+t0: [9cfa2ea004f22, c4e41636b472f, a1f74ec32a429, c3eb322eb0c01, 8d5446ce11691]
 t1: [6305d15ffb0b8, 3b1be9c94b8cf, 5e08b13cd5bd5, 3c14cdd14f3fd, 72abb931ee96d]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [1b8fc2e565eaa, 77c72394d2b5f, 30af6a0be1448, 1292724959ca8, 640682eb35384]
@@ -3875,6 +4079,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [4a47cd9e1770b, 25ecace09681f, 442612499a034, 30dfac3913347, 79c65c232a24d]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [6b7064c3d11c4, 3426a63ed2fc0, 77b3db6ccbf97, 1e40a78dd9970, c7347b9abb65]
 t2: [926556a063a3f, c4df20ccec374, affe8ae5c0713, aaca8e06889f3, b8e2254b09dd2]
 t3: [126556a063a52, 44df20ccec375, 2ffe8ae5c0714, 2aca8e06889f4, 38e2254b09dd3]
@@ -3894,6 +4099,7 @@ t16: [23422d5aa7207, 58c7c39c8bd86, 20a82856a045, 143de9c6f3330, 7b745120b4531]
 t17: [28ad75bb6fc0f, 6d438ab333951, 2d888abb462ad, 1dcc138c606fe, 38dbd9859c609]
 -----------------------------------------------------
 choice: 0
+t0: [a3422d5aa71f4, d8c7c39c8bd85, 820a82856a044, 943de9c6f332f, fb745120b4530]
 t1: [5cbdd2a558de6, 27383c6374279, 7df57d7a95fba, 6bc216390cccf, 48baedf4bace]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2ea51489207cf, 2578ea9998d5d, 24eeea8973aa4, 4467d8e73f203, e484cf4c73ed]
@@ -3913,6 +4119,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [440b10512e2d3, 72f8df5f88d79, 55dd45c677049, 445e4cc5d5231, 21781d7d79585]
 -----------------------------------------------------
 choice: 0
+t0: [f2cc8fb224300, 8626d90b89b25, a7055c9e0fda8, 8b720a55f6d3a, 816321ceaef6d]
 t1: [72cc8fb224313, 626d90b89b26, 27055c9e0fda9, b720a55f6d3b, 16321ceaef6e]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [77e9df5da3a47, 1a0e4140ee50c, 5445747311f6c, 7743667455b9c, 3d0fc5050d4f4]
@@ -3932,6 +4139,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [264ec139c0015, 4b5cf8c28f4b1, d52c710a1835, 1475c828b3402, f09b8b37843f]
 -----------------------------------------------------
 choice: 0
+t0: [b7fd6c330b6ce, d3ec415e39569, 84168cc516a8d, f6db3eea500c3, cc8f50a32cda1]
 t1: [37fd6c330b6e1, 53ec415e3956a, 4168cc516a8e, 76db3eea500c4, 4c8f50a32cda2]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [33627d8c7ffc3, 69460e7ae169d, 655a71debcf94, 57146fae997fb, 61ec8e990f781]
@@ -3951,6 +4159,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [39b3063feaba9, 4f5be4ffbc24c, 3300ae358d574, 688b00b194ca7, 34769c4f47fe1]
 -----------------------------------------------------
 choice: 0
+t0: [e4fa1309e3414, 8862d8c43c105, d86077b4af523, e70d3705d2e2c, cd163336e0f10]
 t1: [64fa1309e3427, 862d8c43c106, 586077b4af524, 670d3705d2e2d, 4d163336e0f11]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [c99f3802a89b, 6148360087b67, 19fea394e5516, 2ee9fe9cd66b1, 1712c7617003c]
@@ -3970,6 +4179,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7d269a566ed0b, 535572f41f657, 57b983a93a184, 610fd7111b66d, 5dcb8574337da]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5b2cb53225c4, 59551a17c1350, 508cf8ad8bcf6, 3de051ddc9324, 4468f5179904a]
 t2: [f837612550db9, ecad743e246dd, 9d32f08394c0f, b47385b291f1b, c22be84f69a96]
 t3: [7837612550dcc, 6cad743e246de, 1d32f08394c10, 347385b291f1c, 422be84f69a97]
@@ -3989,6 +4199,7 @@ t16: [1d12469c0679, 50cffd56e8b84, 19191c1f62f26, 6f5423c3a8ef5, 11d34c0736464]
 t17: [25be008c8f2f4, 41b91052913d0, 5ea03c668cf49, 36beb5d98dc7c, 4641151ad8e80]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3483fee6e19f2, 7c8ddf5add85f, 42bf8732e616c, 1282944ce4706, 737dd5ca4e2ff]
 t2: [81d12469c0666, d0cffd56e8b83, 99191c1f62f25, ef5423c3a8ef4, 91d34c0736463]
 t3: [7e2edb963f974, 2f3002a91747b, 66e6e3e09d0d9, 10abdc3c5710a, 6e2cb3f8c9b9b]
@@ -4008,6 +4219,7 @@ t16: [76888af8f6a9a, 48354f406d7e7, 7deed4325868a, 3d6e505f7ccc8, 1143763eb8e3f]
 t17: [1bf46cdc210aa, 7cf2af7a74d7a, 7458acb90b275, 67a73eb4cc8c4, 3ee8f5ad1b649]
 -----------------------------------------------------
 choice: 0
+t0: [f6888af8f6a87, c8354f406d7e6, fdeed43258689, bd6e505f7ccc7, 9143763eb8e3e]
 t1: [977750709553, 37cab0bf92818, 2112bcda7975, 4291afa083337, 6ebc89c1471c0]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [48172647bde99, 61aa10b1650b, 174ea68de9b14, 30b1829666e76, 22e14a5c936c]
@@ -4027,6 +4239,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [5a44c2f295fbe, 3a9601bf7ee21, 4bd83467de749, 761893d8417d1, 30e5fd55097f3]
 -----------------------------------------------------
 choice: 0
+t0: [8786a69e4932d, 89f65c957af22, 9b9e4c9f83fa3, ecf9608791822, 98e1f7aac1b0b]
 t1: [786a69e49340, 9f65c957af23, 1b9e4c9f83fa4, 6cf9608791823, 18e1f7aac1b0c]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4b767a1ad4071, ad3fc81023bc, 684f97304316d, 13ced84f7d05c, 1e340555ed018]
@@ -4046,6 +4259,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7970af5f73493, 5a52070e15d52, 19ebd5a0e54f6, 146705fb04f3c, 29f55fec38d66]
 -----------------------------------------------------
 choice: 0
+t0: [8701123f2bba0, c54ae4d87a826, ecc767856e39a, a3a1da9e9318b, f48e7aab90fc3]
 t1: [701123f2bbb3, 454ae4d87a827, 6cc767856e39b, 23a1da9e9318c, 748e7aab90fc4]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [d1ea141196c7, 4b5bf1e3d455a, 4c2854be35612, 5731f409f6187, 2c1540278e533]
@@ -4065,6 +4279,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7b761f05886ad, 2ba5e984a3ac9, 4219aa11f21dc, 49a5201758e5b, c3ac92797446]
 -----------------------------------------------------
 choice: 0
+t0: [887a41eb4f0e3, 88d79c3e12064, a95b126ed3a3d, fce9b1dc4a9e3, ea598a25d1ebb]
 t1: [87a41eb4f0f6, 8d79c3e12065, 295b126ed3a3e, 7ce9b1dc4a9e4, 6a598a25d1ebc]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [913c1f4ef293, 28b42cf6b8a6c, 7bccabdc1bc47, 6cb5bfd14e348, 678a6db0d1772]
@@ -4084,6 +4299,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [59d51948d75b9, 4626b27463d47, 59f940ff723a0, 4ad45f75c87a9, 338f1b17ba3d]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4c55cd6e5147b, 73b29b1738570, 4c0d7e011b8be, 6a5741146f0ac, 798e1c9d08b84]
 t2: [d8ae732739ade, b3c3b047b11e3, 81a14d0a17e2a, 9730d2f0ff471, cd2ee7f67afe4]
 t3: [58ae732739af1, 33c3b047b11e4, 1a14d0a17e2b, 1730d2f0ff472, 4d2ee7f67afe5]
@@ -4103,6 +4319,7 @@ t16: [42cebc26999c9, 35637c16f9002, 416ba52bbdafd, 21575c4823dc, 69e005f18937]
 t17: [38b623a9caafa, 72abe99bf6ad3, 48918fa463f29, 638a8097dfca8, 76acc7914659d]
 -----------------------------------------------------
 choice: 0
+t0: [c2cebc26999b6, b5637c16f9001, c16ba52bbdafc, 821575c4823db, 869e005f18936]
 t1: [3d3143d966624, 4a9c83e906ffd, 3e945ad442502, 7dea8a3b7dc23, 7961ffa0e76c8]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [e93b8ac6a9e6, 1aa82cc812a59, 6edce0b7381ac, 38eafed0406ae, 12a670dd734c4]
@@ -4122,6 +4339,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [2a0b4d91143c9, 728f86e0d23cd, 117c0b22de96a, 74af252161432, 6a046b88f9e79]
 -----------------------------------------------------
 choice: 0
+t0: [9f374638d8785, e6c698b2737a2, dc11f14c0bce3, bb1e1ccef603d, ee87b15ff1ccd]
 t1: [1f374638d8798, 66c698b2737a3, 5c11f14c0bce4, 3b1e1ccef603e, 6e87b15ff1cce]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2be964ddd7848, 1ae0f23e5b865, 5d07e9ba42d2a, 16a1b5bd3d79b, 2bf728ee0c30c]
@@ -4141,6 +4359,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [eeaf04dd0c96, 2eb070bed4e64, 54d3f6b172d92, 2e55b856bdf0b, 37fa4c448581b]
 -----------------------------------------------------
 choice: 0
+t0: [9c39ce3aa98e4, cecef0cf03371, 8714202acf27c, de4fcb298bc3b, e09b3ff2dbbcd]
 t1: [1c39ce3aa98f7, 4ecef0cf03372, 714202acf27d, 5e4fcb298bc3c, 609b3ff2dbbce]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [622a1f645e6c1, 229f1e8256337, 5658129d1a4db, 23548f52841e8, 100b6776f4fc9]
@@ -4160,6 +4379,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [7b4ced4664ab8, 6184b8f3e4c33, 48bb37402ee03, 1c8a7be861fce, 37e1b9d81696]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [966257336a7d, 3cf68e1836798, 6e89917fa23f8, 46eb082f3c062, 7903c8c4fd2d3]
 t2: [da6e241e0875d, b78cdd6fccec8, 8fde805a264ee, ad0139c14429f, f5fbace3e69f1]
 t3: [5a6e241e08770, 378cdd6fccec9, fde805a264ef, 2d0139c1442a0, 75fbace3e69f2]
@@ -4179,6 +4399,7 @@ t16: [6f1716abfafd9, 49bcc08a7617d, 274abd16310bd, 29a83adba7409, 631a80bcec666]
 t17: [176211a239406, 6e37821557701, 6197dff7e8df9, 39192f3d8a8fb, 16ed1d6f10116]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [513bdcbb8d7e1, 2390fbd5511fd, 3cd040102e40c, dcda184eae08, 5225c521dfdd3]
 t2: [ef1716abfafc6, c9bcc08a7617c, a74abd16310bc, a9a83adba7408, e31a80bcec665]
 t3: [10e8e95405014, 36433f7589e82, 58b542e9cef42, 5657c52458bf6, 1ce57f4313999]
@@ -4198,6 +4419,7 @@ t16: [4a738c22c5a96, 4eb250d1b0682, 602ac33cfe4c4, 3729b4c29ee55, 2dc377a628351]
 t17: [372551721a2f2, c4536aa58e0, d52c5ef1ecf9, 42a68b144d036, 12884a19b2ba7]
 -----------------------------------------------------
 choice: 0
+t0: [ca738c22c5a83, ceb250d1b0681, e02ac33cfe4c3, b729b4c29ee54, adc377a628350]
 t1: [358c73dd3a557, 314daf2e4f97d, 1fd53cc301b3b, 48d64b3d611aa, 523c8859d7cae]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [11b55d1bcba09, 7e77592ab4e3f, 655a7421c260d, 7ab2e9d765f93, 5aef6bcc9a8b0]
@@ -4217,6 +4439,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [5a098e465ed2d, 11731be70c6f3, 619929516adfe, 7b9747156b7f3, 2fbc46e79d6a2]
 -----------------------------------------------------
 choice: 0
+t0: [8f6fbdc0f68d0, f4f30f77a470c, f631bc1a781a0, 9728bff4f00e2, ff2a28020f486]
 t1: [f6fbdc0f68e3, 74f30f77a470d, 7631bc1a781a1, 1728bff4f00e3, 7f2a28020f487]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4bece37342593, 5d19c831e7218, 3ccdad5d2a403, 8d171d529018, 20877230c52ba]
@@ -4236,6 +4459,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [28240d5d850b2, 6008f55269c37, 5b5c06edf79c, 68d55868fcec7, 3cbeedb5a35d5]
 -----------------------------------------------------
 choice: 0
+t0: [fb3d6fbb5e5b9, e050f0087d5e4, bade09f6cb30b, a6d7c267da8b8, 95ea63ee67225]
 t1: [7b3d6fbb5e5cc, 6050f0087d5e5, 3ade09f6cb30c, 26d7c267da8b9, 15ea63ee67226]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2fb7e544f5e89, 3fee155b2c791, 74947f22410c6, 2e554f2e06271, 6822494b9454]
@@ -4255,6 +4479,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [51146961fc60c, 60b35335205f6, 75ea69397af3a, 79fb40856dcc6, 2e33e9c2032c2]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5dd72d3c073d5, 3e995995bf412, 142b2d8d0a18a, c097ef524672, 23982c7bf9a7a]
 t2: [d18e1588978e5, d2bae8f213944, a30a7bc44f20b, a214dc8833fe1, f433a3afd480b]
 t3: [518e1588978f8, 52bae8f213945, 230a7bc44f20c, 2214dc8833fe2, 7433a3afd480c]
@@ -4274,6 +4499,7 @@ t16: [7fd8553883de9, 1de4795731eeb, 6e9fde0c2e0a7, 7c44f75503205, 72bed3d989a02]
 t17: [7998eb9546f71, 3218670384f8b, 6abca15d2f60, 61acc97631bc0, 2b2ea518f9dc9]
 -----------------------------------------------------
 choice: 0
+t0: [ffd8553883dd6, 9de4795731eea, ee9fde0c2e0a6, fc44f75503204, f2bed3d989a01]
 t1: [27aac77c204, 621b86a8ce114, 116021f3d1f58, 3bb08aafcdfa, d412c26765fd]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [cce28d57210b, 1bcf31f8f60e8, 72a86bd45a13f, 3ca66d139c87f, 29a2b5ce0c46c]
@@ -4293,6 +4519,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [36f6106ea9c55, 3f50aebeeefc9, 718c1b922bd26, 6710156f75a18, 6dfa44abc5ec7]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1213df22ac730, 15ea2822206d, 1ce7c8dba85b3, 31dfd52114bce, 240b76a874270]
 t2: [ddcbb94a93456, 82e9a3a992eba, f551868843029, dd3292b059fe7, 9bead124032e6]
 t3: [5dcbb94a93469, 2e9a3a992ebb, 755186884302a, 5d3292b059fe8, 1bead124032e7]
@@ -4312,6 +4539,7 @@ t16: [7bf8f4696ba09, 148db1638d744, 2bac3ecae6fe, 12254365b749a, 5d4b46ac50de3]
 t17: [69d1a3ec041e9, c41520a3f49a, 4a4da3214e494, 66378f562354b, 7406a3d318c0d]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [2c5cb827f7c08, 677d5beb816ca, 6b64b9bd636d7, 3390e153b9568, 17f2b859ce7e4]
 t2: [fbf8f4696b9f6, 948db1638d743, 82bac3ecae6fd, 92254365b7499, dd4b46ac50de2]
 t3: [4070b96945e4, 6b724e9c728bb, 7d453c1351901, 6ddabc9a48b65, 22b4b953af21c]
@@ -4331,6 +4559,7 @@ t16: [727d309f86934, 59b0266122a6e, 69a761c34fc9a, 3051158e53bc8, 4e3998c3418e8]
 t17: [22a4463f40531, 710891e994622, 79805bf98b66e, 4a4073679a501, 2c4b508084bd5]
 -----------------------------------------------------
 choice: 0
+t0: [f27d309f86921, d9b0266122a6d, e9a761c34fc99, b051158e53bc7, ce3998c3418e7]
 t1: [d82cf60796b9, 264fd99edd591, 16589e3cb0365, 4faeea71ac437, 31c6673cbe717]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [3ab773817f58b, 1deedc2cd73bb, cff480ce9322, 6b7f1930cb5fc, 27695efef6854]
@@ -4350,6 +4579,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6af0025dfa930, 73eb2c289e8d6, 1d8720823fec9, 431fad004d6d3, 203937230be39]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [2a1ffb440ad8d, 1829a7aec2e52, 44f1befb8026c, 79c0a5ff65259, 3f8d91b9e838c]
 t2: [e177be1a03d61, c633f96d72a1e, 9ca1f24caaaaf, d029e4c0d38d9, bc06a23913de9]
 t3: [6177be1a03d74, 4633f96d72a1f, 1ca1f24caaab0, 5029e4c0d38da, 3c06a23913dea]
@@ -4369,6 +4599,7 @@ t16: [4573b4758b6fe, 733329367f6a3, 41cbc3753406c, 68a5d6501570c, 1ba7727961e1d]
 t17: [718c45be95a08, 3ee5e4a555b82, 6f5b3d3347667, 615ba72acb1c3, 7995bd9e64c4]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [1ce77482d4bdd, 23436b5548fa, 2149859971331, 3d48b1aa69c78, 70cd484c33676]
 t2: [c573b4758b6eb, f33329367f6a2, c1cbc3753406b, e8a5d6501570b, 9ba7727961e1c]
 t3: [3a8c4b8a748ef, cccd6c98095c, 3e343c8acbf93, 175a29afea8f3, 64588d869e1e2]
@@ -4388,6 +4619,7 @@ t16: [3afade6090b43, 4b77de7b66e40, 1d696ec91f68a, 296fbc126a471, 2ea394e7f9f98]
 t17: [68c501ee64a10, 3e13aabbfded2, 2337f4a23c5, 4d7833086b047, 69c44cbd20e41]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [2e75fc2336bba, 3d8aa880425a, 7fb99016bb875, 650f99ef29f71, 2c776685be37c]
 t2: [bafade6090b30, cb77de7b66e3f, 9d696ec91f689, a96fbc126a470, aea394e7f9f97]
 t3: [4505219f6f4aa, 34882184991bf, 62969136e0975, 569043ed95b8e, 515c6b1806067]
@@ -4407,6 +4639,7 @@ t16: [48e7e0e4f2bdd, ae21dd38b2f2, 3233709fb76a0, 2e0942904e0f4, 67f8f9239e540]
 t17: [4b66cdc52d26, 3988547578f22, 7691468d4a861, 3297c60e4c751, 1f592e060b7b9]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [769326475a5a1, cef57150e1bb, 12dd72e56af3d, 1ad073e36715c, 414da3f3e908d]
 t2: [c8e7e0e4f2bca, 8ae21dd38b2f1, b233709fb769f, ae0942904e0f3, e7f8f9239e53f]
 t3: [37181f1b0d410, 751de22c74d0d, 4dcc8f604895f, 51f6bd6fb1f0b, 180706dc61abf]
@@ -4426,6 +4659,7 @@ t16: [1d907aa26a55a, 12cad4c244a5a, 6f4fe23557e89, 11b291f002b1e, 46489183e5300]
 t17: [690987c515e05, 2194492d0a2cb, ed7ff9700f83, 5204e9a978999, 221a8cd289622]
 -----------------------------------------------------
 choice: 0
+t0: [9d907aa26a547, 92cad4c244a59, ef4fe23557e88, 91b291f002b1d, c6489183e52ff]
 t1: [626f855d95a93, 6d352b3dbb5a5, 10b01dcaa8176, 6e4d6e0ffd4e1, 39b76e7c1acff]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2decf075d43e3, 3cd76da5eba68, 625000d1fe0f9, 5bf62cad0eccd, 3bcae65aed3ba]
@@ -4445,6 +4679,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [79180e509b88a, a1a57739169a, 5d9fe8cefa6a1, 29b19e803432a, 4419d12eb3f9a]
 -----------------------------------------------------
 choice: 0
+t0: [918b9ea658825, d32860a8ea8cf, f28093d3fb943, 9c141607756ee, a8d9ba37c5446]
 t1: [118b9ea658838, 532860a8ea8d0, 728093d3fb944, 1c141607756ef, 28d9ba37c5447]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [dcfe35ec8ec6, 6bcb5118dd2ca, 44c02e620b2bd, 2c9cc2ff979aa, 77cc5da2980cb]
@@ -4464,6 +4699,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [2ebbe0bcf6496, 5b41f096f3c97, 58b97c010319b, 6599ebf53acc3, 149d6874f56f4]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [22883e86136c1, 497c1ed2186d1, 4e8d07fdf9cc8, 34cc28158a678, 56c52f1615216]
 t2: [8f44d916e06f3, c31adf70738e2, b34bff546827a, b4675febae173, e4ccc364d9c88]
 t3: [f44d916e0706, 431adf70738e3, 334bff546827b, 34675febae174, 64ccc364d9c89]
@@ -4483,6 +4719,7 @@ t16: [641501dac1a39, 2b0c5cedd415e, 1ad3e4dc6bf8a, f2891dff446a, 5068a6d6d5c67]
 t17: [58e41e917f6ac, 5d8a844f71a56, 32ded9bc099e5, 22c64daf0531c, 6c55b6f6bad01]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [4e37c2dd01282, 44eaf7611cb52, 1a424c87ecc34, 3a7364a1f59c7, 275492128a5fd]
 t2: [e41501dac1a26, ab0c5cedd415d, 9ad3e4dc6bf89, 8f2891dff4469, d068a6d6d5c66]
 t3: [1beafe253e5b4, 54f3a3122bea1, 652c1b2394075, 70d76e200bb95, 2f9759292a398]
@@ -4502,6 +4739,7 @@ t16: [65469c0d5168d, c8b86d6d3222, 76ff482bc552d, 6f46334e8da33, 60c5dab1a7caf]
 t17: [372b9f8dfe19d, 2474281c3cbba, 2da216ed9ade3, 728108a9cdd83, 501d5942761c1]
 -----------------------------------------------------
 choice: 0
+t0: [e5469c0d5167a, 8c8b86d6d3221, f6ff482bc552c, ef46334e8da32, e0c5dab1a7cae]
 t1: [1ab963f2ae960, 737479292cddd, 900b7d43aad2, 10b9ccb1725cc, 1f3a254e58350]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [11a8c0e403ca0, 3717afc78688b, 24bbd224ca439, 1afdeeac644f9, 5fc54d7b13c7c]
@@ -4521,6 +4759,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [532b2bf69319b, 3e40542d6710, 36640ed62de0f, 5fe93472d7e4f, 40b40d9f2457d]
 -----------------------------------------------------
 choice: 0
+t0: [976dd6dcdffcf, c591074e35286, d98290f462919, eb89570fec4a6, b538955971738]
 t1: [176dd6dcdffe2, 4591074e35287, 598290f46291a, 6b89570fec4a7, 3538955971739]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [59a9a812d9ca4, 7837f57a531de, 1337e253a43e1, 402d971a50361, 7e97e4c1b7504]
@@ -4540,6 +4779,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [37abbef0589f2, 2b847d19dc64d, 4102dc54734da, 71a8e83634926, 2e238c7df6155]
 -----------------------------------------------------
 choice: 0
+t0: [dc1d35fbf3003, ac57d14fbd16b, 8aacc53d008fc, 88136a7bf8162, d5cf00dec8d6b]
 t1: [5c1d35fbf3016, 2c57d14fbd16c, aacc53d008fd, 8136a7bf8163, 55cf00dec8d6c]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [10a8821f4ec09, 28f705cc47365, 7dfa47571964b, 1cae2f9396db2, 23b8e70413d54]
@@ -4559,6 +4799,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [4c0591dcbc09a, 49dae36135af2, 5ae9cf5ec8bc8, 250dfba790e44, 5fdd3d25cfc62]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [67f4dc4687ea6, 6c4a393d94a1a, 4a2c61426e86e, 35e408b0de376, 404585b46073b]
 t2: [cf6ed84300072, de195b923144f, e83338155bfdd, 96e6fb8faa648, d436a5a1a0d7b]
 t3: [4f6ed84300085, 5e195b9231450, 683338155bfde, 16e6fb8faa649, 5436a5a1a0d7c]
@@ -4578,6 +4819,7 @@ t16: [79baf64892c38, 2ae243a6de748, 2bf074086917a, 232e717d85c60, 3c408b942ea0e]
 t17: [77a31fbaa6e26, 31e8de7618f84, 626f1266f74f9, 8028686091db, 63312b6a0a94f]
 -----------------------------------------------------
 choice: 0
+t0: [f9baf64892c25, aae243a6de747, abf0740869179, a32e717d85c5f, bc408b942ea0d]
 t1: [64509b76d3b5, 551dbc59218b7, 540f8bf796e85, 5cd18e827a39f, 43bf746bd15f1]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [10b9c08ab238e, 1c2e4313ce0f6, 3b21db321160d, 6ffaf2f3edc48, 399da92bead61]
@@ -4597,6 +4839,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [111859edf708d, 663c194057e41, 376a95f75438e, 79dc8e48b0321, 4b853de782d6c]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [5dcf4c2411ec0, 3387cd7f5037d, 112ad411578e2, c46e36e9f9bd, 68f58430fa526]
 t2: [b25a4edf47fbf, e0cc01420a674, da01c2a5bc5a8, f2c4e5e5df96f, cf3a36d79ea5a]
 t3: [325a4edf47fd2, 60cc01420a675, 5a01c2a5bc5a9, 72c4e5e5df970, 4f3a36d79ea5b]
@@ -4616,6 +4859,7 @@ t16: [285ac6892ca38, 7847eb6e3536f, 5467db4be247c, 3b758aacc6e4b, 4a5d0e262838e]
 t17: [38ca44ace4cc3, 5020364d2670b, 5eed5029dfc33, e4f0b112c282, 1a8150f73f20b]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [e6b76a636667, 5fbf9365b31e9, 42255fac40798, 6361e9dda7afa, 4afd5e1181be9]
 t2: [a85ac6892ca25, f847eb6e3536e, d467db4be247b, bb758aacc6e4a, ca5d0e262838d]
 t3: [57a53976d35b5, 7b81491cac90, 2b9824b41db83, 448a7553391b4, 35a2f1d9d7c71]
@@ -4635,6 +4879,7 @@ t16: [7c42319483964, 1a961291d0677, 4e00ddbd0abe8, 227b4cde0e508, 4a559b3773f9d]
 t17: [18af0748adaf0, 5d262f37e64d5, 508ae521b142f, d01d6bd604c5, 7f77250d2cdb4]
 -----------------------------------------------------
 choice: 0
+t0: [fc42319483951, 9a961291d0676, ce00ddbd0abe7, a27b4cde0e507, ca559b3773f9c]
 t1: [3bdce6b7c689, 6569ed6e2f988, 31ff2242f5417, 5d84b321f1af7, 35aa64c88c062]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [4ea1f16ea49fa, 45b3a19033655, 5eea35bc9d7a0, 65fc52853f674, 111b5e5a6497]
@@ -4654,6 +4899,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [6ac9c253a91e, 74b289f79f901, 16494423beb59, 430753ad0233c, 6b7ed945c88ea]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [72a6c7b58ad9e, 169aec10c0dfd, 536d77b88294c, 79f158a5fb987, 29024d746ee2a]
 t2: [a6a55fb2973f7, 8bf0f18259a88, dc38d8ee24b29, fbee1a2ceb22e, 84118b196f25a]
 t3: [26a55fb29740a, bf0f18259a89, 5c38d8ee24b2a, 7bee1a2ceb22f, 4118b196f25b]
@@ -4673,6 +4919,7 @@ t16: [709906ca01951, 644b40c50176c, 2e3677190c4b4, 6fedc785c938a, 4489515b032d1]
 t17: [56ce675ce85dc, 2ef0bc64cc75f, fd332a2d741f, 7bed9e5c59fbb, 2ad1d4f0eec3e]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [526331462f435, 221e873667140, 60599aba517c1, 824c3474c089, 2a5c561e22782]
 t2: [f09906ca0193e, e44b40c50176b, ae3677190c4b3, efedc785c9389, c489515b032d0]
 t3: [f66f935fe69c, 1bb4bf3afe893, 51c988e6f3b4b, 1012387a36c75, 3b76aea4fcd2e]
@@ -4692,6 +4939,7 @@ t16: [2d44e5ec4d409, 4c4901f442b65, 4ec8397d09a3f, 778a8dd25742d, 14f622e26a2f4]
 t17: [3350cb89ec390, 3c12719c4a076, 2de8d64de159f, 388b0e7e84ca1, 367e8b22cf870]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [195e68ec278cd, 7db1cc76bf13, 242e53643d4c1, ee9e302f66bd, 1302e9ba60f1f]
 t2: [ad44e5ec4d3f6, cc4901f442b64, cec8397d09a3e, f78a8dd25742c, 94f622e26a2f3]
 t3: [52bb1a13b2be4, 33b6fe0bbd49a, 3137c682f65c0, 875722da8bd2, 6b09dd1d95d0b]
@@ -4711,6 +4959,7 @@ t16: [60fac798e9b8d, ebabc4c257f7, 59b67326c3c53, 5ecad9c1643ae, 6131c462c5ef0]
 t17: [69ef16d2293c2, 1b34a2f6ca44f, 6fb597be0615, 458a5db3e7e56, 6d569a08b46c8]
 -----------------------------------------------------
 choice: 0
+t0: [e0fac798e9b7a, 8ebabc4c257f6, d9b67326c3c52, decad9c1643ad, e131c462c5eef]
 t1: [1f05386716460, 714543b3da808, 26498cd93c3ac, 2135263e9bc51, 1ece3b9d3a10f]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [2c21d25bad856, 4996ba126b760, 72094d083f3d5, 74eb449830353, 2552cbee9726e]
@@ -4730,6 +4979,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [77f2ba568e48a, 4dfbc5bd2980, 2c43468a72732, 34ab685a4ef33, 632614de224e6]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [101a8b52e36c6, 764087485acfe, 277972eb1b19b, 16a92f4b62199, 39b3d643bb633]
 t2: [d86168300c023, d8fe08325deb8, 9b973fa7c8b97, aad17990052eb, dc7dcab908cc9]
 t3: [586168300c036, 58fe08325deb9, 1b973fa7c8b98, 2ad17990052ec, 5c7dcab908cca]
@@ -4749,6 +4999,7 @@ t16: [1ba97b00ff488, 6ddcba4d9d142, 6a70ddd004fa4, 79821a5255ee8, 19704dfe99899]
 t17: [615dd365d5d7c, 5bfddff646c48, 382378b5e1003, 1ec4379247130, 6175c5dcf4b79]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [3d445934544e2, 480440137276e, fb90e943dff8, 427790db71d9f, 3d1474461690d]
 t2: [9ba97b00ff475, eddcba4d9d141, ea70ddd004fa3, f9821a5255ee7, 99704dfe99898]
 t3: [645684ff00b65, 122345b262ebd, 158f222ffb05b, 67de5adaa117, 668fb20166766]
@@ -4768,6 +5019,7 @@ t16: [387bc498eb80b, 11823f5428632, 520124220d209, 3a7aac9133948, 5a5e33bce597c]
 t17: [3fef52ef349e6, 7ddc40e55e722, 4a6f48e3b129b, 14fe59e9fa684, 6829721c9adf6]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [215a2196c0e, 4477e35431bb, 6b216e389dac8, 56034c2c0b2f6, 2fad1bc6ca413]
 t2: [b87bc498eb7f8, 91823f5428631, d20124220d208, ba7aac9133947, da5e33bce597b]
 t3: [47843b67147e2, 6e7dc0abd79cd, 2dfedbddf2df6, 4585536ecc6b7, 25a1cc431a683]
@@ -4787,6 +5039,7 @@ t16: [4ff6419036395, 17aad593edb46, 6857bc82816e6, 38ec2fd6c3470, 164f6efe73387]
 t17: [6e051e080f890, 4f54fe9f59849, 3c02554306bc3, 480d06d8bbaaf, 398917ff50ac]
 -----------------------------------------------------
 choice: 1
+t0: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t1: [23f5c3efe0ecd, 615602c14cf6c, 7fb5579f2878, 6fe5f24e88aa1, 78cedd0015ea6]
 t2: [cff6419036382, 97aad593edb45, e857bc82816e5, b8ec2fd6c346f, 964f6efe73386]
 t3: [3009be6fc9c58, 68552a6c124b9, 17a8437d7e919, 4713d0293cb8f, 69b091018cc78]
@@ -4806,6 +5059,7 @@ t16: [75163b121b61c, 46aa843860214, 7c3e8e25788fe, 41968aa6141f8, 64ab6b6a30e20]
 t17: [77fd905da1a95, 4362f1d788719, d00ae23b52ef, 5efa363bece12, 3a55d762f9123]
 -----------------------------------------------------
 choice: 0
+t0: [f5163b121b609, c6aa843860213, fc3e8e25788fd, c1968aa6141f7, e4ab6b6a30e1f]
 t1: [ae9c4ede49d1, 39557bc79fdeb, 3c171da87701, 3e697559ebe07, 1b549495cf1df]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [1004df44bcac3, 793a1c50ef1cc, 65fea3b895a20, 420b9388263db, b54513a0ddb8]
@@ -4825,6 +5079,7 @@ t16: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t17: [753348f618d3, 1571be555eccb, 2779a42d7121d, 452a66f85d3da, 2a0c9860599b3]
 -----------------------------------------------------
 choice: 0
+t0: [b353e4beef028, f175f7f0386b2, de866886df903, bf7a8ae2d0721, b473ff1ac84dc]
 t1: [3353e4beef03b, 7175f7f0386b3, 5e866886df904, 3f7a8ae2d0722, 3473ff1ac84dd]
 t2: [7ffffffffffed, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff, 7ffffffffffff]
 t3: [715996e13ce47, 551c835542669, 310cb7a51dbc5, 75ab320f4584b, 2be6cf3f4cc98]
